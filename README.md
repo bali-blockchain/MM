@@ -3,4 +3,6 @@
 ![MM Holders](./images/_MM_technical_architecture_001_.png)
 ![MM Active Activities](./images/_MM_technical_architecture_002_.png)
 ![MM Account](./images/_MM_technical_architecture_003_.png)
+![MM Auction_1st_event](./images/_MM_technical_architecture_006_.png)
+![MM Auction_2nd_event](./images/_MM_technical_architecture_007_.png)
 ![MM home domain](./images/_MM_technical_architecture_005_.png)
