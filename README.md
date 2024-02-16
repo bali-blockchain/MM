@@ -5,6 +5,7 @@
 ####  Smart Contracts deployed into New Block
 ##### execute logic read from a Block in a Chain
 
+
 <br />
 
 
@@ -16,13 +17,23 @@
 ####  Quality Liquidity backed by e-Cash
 ##### Smart Contracts based Financial Payments
 
-___
+
+<br />
+
+
+---
+
 
 ###   MM:Coin
 ####  Coin Operated Money! Machine  
 ##### BolaTangkas Smart Contracts based Gaming
 
-___
+
+<br />
+
+
+---
+
   
 ![MM Auction Contract](./images/_MM_technical_architecture_000_.png)
 ![MM Holders](./images/_MM_technical_architecture_001_.png)
