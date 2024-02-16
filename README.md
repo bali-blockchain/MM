@@ -1,4 +1,9 @@
 # &nbsp;MM : Money! Makers
+
+##   MM:Chain
+###  Smart Contracts deployed into New Block
+#### peer-to-peer network preserving & synchronizing Blocks in a Chain
+  
 ![MM Auction Contract](./images/_MM_technical_architecture_000_.png)
 ![MM Holders](./images/_MM_technical_architecture_001_.png)
 ![MM Active Activities](./images/_MM_technical_architecture_002_.png)
