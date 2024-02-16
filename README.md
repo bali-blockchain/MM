@@ -1,9 +1,9 @@
-# &nbsp; Coin Operated MM : Money! Makers
+# &nbsp; MM : Money! Makers
 
 
 ###   MM:Chain
 ####  Smart Contracts deployed into New Block
-##### peer-to-peer network preserving & synchronizing Blocks in a Chain
+##### execute logic read from a Block in a Chain
 
 <hr style="border:1px solid gray">
 
