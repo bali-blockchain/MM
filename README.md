@@ -5,7 +5,7 @@
 ####  Smart Contracts deployed into New Block
 ##### execute logic read from a Block in a Chain
 
-<hr style="border:1px solid gray">
+- - -
 
 ###   MM:Cash
 ####  Quality Liquidity backed by e-Cash
