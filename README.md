@@ -1,4 +1,4 @@
-# &nbsp; Blockchain based Coin Operated MM : Money! Makers
+# &nbsp; Coin Operated MM : Money! Makers
 
 
 ###   MM:Chain
