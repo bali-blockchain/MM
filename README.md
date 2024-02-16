@@ -8,8 +8,8 @@
 <hr style="border:1px solid gray">
 
 ###   MM:Cash
-####  Quality Liquidity Money! Machine backed by listed Tokens
-##### Smart Contracts based On-Chain Financial Payments Settlement
+####  Quality Liquidity backed by e-Cash
+##### Smart Contracts based Financial Payments
 
 ___
 
