@@ -9,10 +9,6 @@
 <br />
 
 
----
-
-
-
 ###   MM:Cash
 ####  Quality Liquidity backed by e-Cash
 ##### Smart Contracts based Financial Payments
@@ -21,18 +17,12 @@
 <br />
 
 
----
-
-
 ###   MM:Coin
 ####  Coin Operated Money! Machine  
 ##### BolaTangkas Smart Contracts based Gaming
 
 
 <br />
-
-
----
 
   
 ![MM Auction Contract](./images/_MM_technical_architecture_000_.png)
