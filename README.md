@@ -14,8 +14,8 @@
 ___
 
 ###   MM:Coin
-####  Coin Operations Smart Contracts Money! Machine  
-##### Micky Mouse BolaTangkas Smart Contracts based Gaming
+####  Coin Operated Money! Machine  
+##### BolaTangkas Smart Contracts based Gaming
 
 ___
   
