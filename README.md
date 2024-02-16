@@ -1,8 +1,20 @@
 # &nbsp;MM : Money! Makers
 
+
 ###   MM:Chain
 ####  Smart Contracts deployed into New Block
 ##### peer-to-peer network preserving & synchronizing Blocks in a Chain
+
+
+###   MM:Cash
+####  Quality Liquidity Money! Machine backed by listed Tokens
+##### Smart Contracts based On-Chain Financial Payments Settlement
+
+
+###   MM:Coin
+####  Coin Operations Smart Contracts Money! Machine  
+##### Micky Mouse BolaTangkas Smart Contracts based Gaming
+
   
 ![MM Auction Contract](./images/_MM_technical_architecture_000_.png)
 ![MM Holders](./images/_MM_technical_architecture_001_.png)
