@@ -1,22 +1,19 @@
 # &nbsp; MM : Money! Makers
 
 
-###   MM:Chain
-####  Smart Contracts deployed into New Block
-##### execute logic read from a Block in a Chain
+###   MM:Chain ( Smart Contracts [ seed, genesis )
+##### execute contract code from a Block in a Chain
 
 
 <br />
 
 
-###   MM:Cash
-####  Quality Liquidity backed by e-Cash
+###   MM:Cash ( quality liquidity backed by e-Cash )
 ##### Smart Contracts based Financial Payments
 
 
 <br />
 
 
-###   MM:Coin
-####  Coin Operated Money! Machine  
+###   MM:Coin ( instant Money! Machine ) 
 ##### BolaTangkas Smart Contracts based Gaming
