@@ -4,14 +4,14 @@
 <br />
 
 
-###   MM:Chain ( Smart Contracts [ seed, genesis ] )
+###   MM:Chain ( Smart Contracts )
 ##### New Mint ongoing Blocks in a Chain
 
 
 <br />
 
 
-###   MM:Cash ( quality liquidity backed by e-Cash )
+###   MM:Cash ( liquidity backed by e-Cash )
 ##### non-custodial wallet
 
 
