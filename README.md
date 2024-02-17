@@ -4,7 +4,7 @@
 <br />
 
 
-###   MM:Chain ( Smart Contracts [ seed, genesis )
+###   MM:Chain ( Smart Contracts [ seed, genesis ] )
 ##### execute contract code from a Block in a Chain
 
 
