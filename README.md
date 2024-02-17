@@ -1,4 +1,4 @@
-# &nbsp; MM : Money! Makers
+# &nbsp; MM : Money! Machine
 
 
 ###   MM:Chain ( Smart Contracts [ seed, genesis )
