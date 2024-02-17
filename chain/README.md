@@ -1,1 +1,1 @@
-#  MM:Chain ( Smart Contracts [ seed, genesis )
+#  MM:Chain ( Smart Contracts [ seed, genesis ] )
