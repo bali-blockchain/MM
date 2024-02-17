@@ -5,7 +5,7 @@
 
 
 ###   MM:Chain ( Smart Contracts [ seed, genesis ] )
-##### New Mint Blocks in a Chain
+##### New Mint ongoing Blocks in a Chain
 
 
 <br />
