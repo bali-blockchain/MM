@@ -11,12 +11,12 @@
 <br />
 
 
-###   MM:Cash ( liquidity backed by e-Cash )
+###   MM:Cash ( backed by e-Cash )
 ##### non-custodial wallet
 
 
 <br />
 
 
-###   MM:Coin ( instant Money! Machine ) 
+###   MM:Coin ( instant Money! ) 
 ##### BolaTangkas gaming
