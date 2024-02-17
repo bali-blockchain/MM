@@ -5,18 +5,18 @@
 
 
 ###   MM:Chain ( Smart Contracts [ seed, genesis ] )
-##### execute contract code from a Block in a Chain
+##### New Mint Blocks in a Chain
 
 
 <br />
 
 
 ###   MM:Cash ( quality liquidity backed by e-Cash )
-##### Smart Contracts based Financial Payments
+##### non-custodial wallet
 
 
 <br />
 
 
 ###   MM:Coin ( instant Money! Machine ) 
-##### BolaTangkas Smart Contracts based Gaming
+##### BolaTangkas gaming
