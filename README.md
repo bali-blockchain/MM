@@ -5,7 +5,7 @@
 
 
 ###   MM:Chain ( Smart Contracts )
-##### New Mint Block rate 10 minute
+##### New Mint Block rate 9 seconds
 
 
 <br />
