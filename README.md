@@ -5,11 +5,11 @@
 
 
 ###   MM:Chain ( Smart Contracts )
-##### ongoing Blocks in a Chain
+##### New Mint Block rate 10 minute
 
 
 <br />
 
 
 ###   MM:Coin ( Mining ) 
-##### New Mint Block rate 10 minute
+##### Maximum Reward 100.000.000 IDR
