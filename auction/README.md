@@ -38,14 +38,14 @@
 
 
 ##    Exchange Rate
-####  XLM 1 : 2.000 IDR
+######  XLM 1 : 2.000 IDR
 
 
 <br />
 
 
 ##    base Transaction FEE
-####  20.000 IDR
+######  20.000 IDR
 
 
 <br />
