@@ -11,5 +11,5 @@
 <br />
 
 
-###   MM:Coin ( instant Money! ) 
+###   MM:Coin ( Mining ) 
 ##### New Mint Block rate 10 minute
