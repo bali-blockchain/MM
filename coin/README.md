@@ -1,2 +1,2 @@
 ###   MM:Coin
-##### BolaTangkas gaming
+##### Mining
