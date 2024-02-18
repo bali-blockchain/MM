@@ -42,6 +42,6 @@
 <br />
 
 
-##    New Mint Block every 10 minutes
+##    Transactions Pool New Mint Block every 10 minutes
 ####  100.000.000 IDR
 
