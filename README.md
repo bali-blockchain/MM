@@ -5,7 +5,7 @@
 
 
 ###   MM:Chain ( Smart Contracts )
-##### continuous ongoing Blocks in a Chain
+##### ongoing Blocks in a Chain
 
 
 <br />
