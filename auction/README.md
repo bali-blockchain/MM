@@ -38,3 +38,10 @@
 ##    base Transaction FEE
 ####  20.000 IDR
 
+
+<br />
+
+
+##    New Mint Block every 10 minutes
+####  100.000.000 IDR
+
