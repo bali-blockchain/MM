@@ -4,7 +4,7 @@
 <br />
 
 
-###   MM:Chain ( Smart Contracts )
+###   MM:Core ( Smart Contracts on Chain )
 ######  New Mint Block rate 6 seconds
 
 
