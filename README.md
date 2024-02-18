@@ -5,9 +5,9 @@
 
 
 ###   MM:hodl ( Smart Contracts based Auction )
-######  Genesis  IDR 1 : 1 MM
-######  Inflation  IDR 10 : 1 MM
-######  Finalized  IDR 100 : 1 MM
+######  Auction Floor Price IDR 1 : 1 MM
+######  Auction Floor Price IDR 10 : 1 MM
+######  Auction Floor Price IDR 100 : 1 MM
 
 
 <br />
