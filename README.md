@@ -1,4 +1,4 @@
-#   MM : Money! Machine
+#   MM : Money! Maker
 
 
 <br />
