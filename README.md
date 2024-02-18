@@ -4,6 +4,15 @@
 <br />
 
 
+###   MM:hodl ( Smart Contracts based Auction )
+######  Genesis  IDR 1 : 1 MM
+######  Inflation  IDR 10 : 1 MM
+######  Finalized  IDR 100 : 1 MM
+
+
+<br />
+
+
 ###   MM:Core ( Smart Contracts on Chain )
 ######  New Mint Block rate 6 seconds
 
