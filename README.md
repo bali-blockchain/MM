@@ -5,18 +5,11 @@
 
 
 ###   MM:Chain ( Smart Contracts )
-##### New Mint ongoing Blocks in a Chain
-
-
-<br />
-
-
-###   MM:Cash ( backed by e-Cash )
-##### non-custodial wallet
+##### continuous ongoing Blocks in a Chain
 
 
 <br />
 
 
 ###   MM:Coin ( instant Money! ) 
-##### BolaTangkas gaming
+##### New Mint Block rate 10 minute
