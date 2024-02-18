@@ -1,2 +1,2 @@
 ####  MM:Chain
-##### ongoing Blocks in a Chain
+##### Chain State ongoing Block every 6 seconds
