@@ -53,5 +53,5 @@
 
 ##    Transactions Pool 
 ####  New Mint Block every 10 minutes
-####  100.000.000 IDR
+####  coinbase transaction 100.000.000 IDR
 
