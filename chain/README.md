@@ -1,2 +1,2 @@
 ####  MM:Chain
-##### New Mint ongoing Blocks
+##### ongoing Blocks in a Chain
