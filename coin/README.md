@@ -1,2 +1,2 @@
 ###   MM:Coin
-##### Mining
+##### Mining Fee 20.000 IDR
