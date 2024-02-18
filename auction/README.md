@@ -1,11 +1,11 @@
 ##    Auction X :  series 1-to-100
-####  Floor Price IDR 1 : 1 MM
+######  Floor Price IDR 1 : 1 MM
 ####  Minimal Buy 
 ###### IDR 1.000.000 : 1.000.000 MM
 ####  Auction amount 
-##### 100 series x 1.ooo.ooo.ooo IDR per series
+####### 100 series x 1.ooo.ooo.ooo IDR per series
 ####  Founders hodl 
-##### 10 x 1.ooo.ooo.ooo MM
+####### 10 x 1.ooo.ooo.ooo MM
 
 
 <br />
