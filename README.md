@@ -12,4 +12,4 @@
 
 
 ###   MM:Coin ( Mining Fee 20.000 IDR ) 
-##### Maximum Reward 100.000.000 IDR
+##### Maximum Reward Payout 100.000.000 IDR
