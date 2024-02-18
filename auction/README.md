@@ -24,3 +24,17 @@
 ####  Auction amount 1000 series x 1o.ooo.ooo IDR per series
 ####  Founders hodl 10 x 1.ooo.ooo.ooo MM
 
+
+<br />
+
+
+##    Exchange Rate
+####  XLM 1 : 2.000 IDR
+
+
+<br />
+
+
+##    base Transaction FEE
+####  20.000 IDR
+
