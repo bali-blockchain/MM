@@ -29,3 +29,10 @@
 
 ####   MM:Blockchain
 ######   Apply Economic
+######   Secure Network protocol
+######   implement "a" based Blockchain
+######   Code Craft Smart Contracts
+######   deploy Smart Contracts to Blockchain
+######   proficiency in Secure Messaging between Chains
+######   Accelerate Blockchain development
+
