@@ -4,7 +4,7 @@
 <br />
 
 
-####   MM:hodl ( Smart Contracts based Auction )
+####   MM:hodl ( Smart Contracts based Auctions )
 ######  Auction Floor Price IDR 1 : 1 MM
 ######  Auction Floor Price IDR 10 : 1 MM
 ######  Auction Floor Price IDR 100 : 1 MM
