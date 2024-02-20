@@ -22,3 +22,10 @@
 
 ####   MM:Coin ( base Transaction Fee 20.000 IDR ) 
 ######  Maximum Reward 100.000.000 IDR
+
+
+<br />
+
+
+####   MM:Blockchain
+######   Apply Economic
