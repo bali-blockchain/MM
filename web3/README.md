@@ -1,2 +1,0 @@
-###    Economics
-######    Incentive and Rewards
