@@ -1,2 +1,2 @@
 ###   MM:Coin
-######  Mining Fee 20.000 IDR
+######  flat rate Transaction Fee 20.000 IDR
