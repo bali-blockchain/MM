@@ -91,3 +91,17 @@
 
 ####   007.  Auctions series
 ######    -- [ ask ] -- [ bid ]
+
+
+<br />
+
+
+####   008.  Liquidity Pool
+######    -- [ deposit ] -- [ withdraw ]
+
+
+<br />
+
+
+####   009.  Swap e-Cash
+######    -- [ e-Cash  < A : B >  e-Cash ]
