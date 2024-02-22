@@ -1,7 +1,7 @@
 ###    crypto_xor.so
 ######    m = b"hello, world"
-######    key = xki( len(m.decode('utf')) )
-######    xor( m.decode('utf'), key )
+######    k = xki( len(m.decode('utf')) )
+######    x = xor( m.decode('utf'), k )
 
 
 <br />
