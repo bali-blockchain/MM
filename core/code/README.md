@@ -22,3 +22,13 @@
 ######    k, n = cha_k()
 ######    e = cha_e( m, k, n )
 ######    d = cha_d( e, k, n )
+
+
+<br />
+
+
+###    crypto_rsa.so
+######    m = b"hello, world"
+######    s, v = rsa_k()
+######    e = rsa_e( m, v )
+######    d = rsa_d( e, s )
