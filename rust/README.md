@@ -1,2 +1,0 @@
-###    proficiency
-######    skilled in Rust
