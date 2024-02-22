@@ -48,4 +48,4 @@
 
 
 ####   001.  Accounts
-######    [ Time Bounded ]    [ Locked ]
+######    -- [ Time Bounded ] -- [ Locked ]
