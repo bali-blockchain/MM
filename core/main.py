@@ -1,6 +1,6 @@
-// Copyright (c) 2024 Anthony Seger
-// Distributed under the MIT software license
-// http://www.opensource.org/licenses/mit-license.php
+# Copyright (c) 2024 Anthony Seger
+# Distributed under the MIT software license
+# http://www.opensource.org/licenses/mit-license.php
 
 
 
