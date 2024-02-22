@@ -105,3 +105,10 @@
 
 ####   009.  Swap e-Cash
 ######    -- [ e-Cash  < A : B >  e-Cash ]
+
+
+<br />
+
+
+####   010.  Listing e-Cash
+######    -- [ Trade Exchange ]
