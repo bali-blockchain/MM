@@ -32,3 +32,14 @@
 ######    s, v = rsa_k()
 ######    e = rsa_e( m, v )
 ######    d = rsa_d( e, s )
+
+
+<br />
+
+
+###    crypto_mem.so
+######    import os
+######    x = os.urandom(32 * 9).hex()
+######    r = mem(x)
+######    print ( json.dumps(r, indent=4) )
+
