@@ -11,7 +11,7 @@
 ######    m = b"hello, world"
 ######    k, i = aes_k()
 ######    e = aes_e( m, k, i )
-######    d = aes_d( m, k, i )
+######    d = aes_d( e, k, i )
 
 
 <br />
@@ -21,4 +21,4 @@
 ######    m = b"hello, world"
 ######    k, n = cha_k()
 ######    e = cha_e( m, k, n )
-######    d = cha_d( m, k, n )
+######    d = cha_d( e, k, n )
