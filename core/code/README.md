@@ -38,7 +38,7 @@
 
 
 ###    crypto_mem.so
-######    import os
+######    import os, json
 ######    x = os.urandom(32 * 9).hex()
 ######    r = mem(x)
 ######    print ( json.dumps(r, indent=4) )
