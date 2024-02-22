@@ -56,3 +56,38 @@
 
 ####   002.  Gaming
 ######    -- [ Top-up ] -- [ Check-in ] -- [ Check-out ]
+
+
+<br />
+
+
+####   003.  Customized Chains
+######    -- [ Brand Name ]
+
+
+<br />
+
+
+####   004.  Customized Contracts
+######    -- [ Brand id ]
+
+
+<br />
+
+
+####   005.  Customized Coins
+######    -- [ Brand Ticker ]
+
+
+<br />
+
+
+####   006.  Customized Assets Values Holdings
+######    -- [ sell order ] -- [ buy order ] -- [ sponsor ] -- [ claim ]
+
+
+<br />
+
+
+####   007.  Auctions series
+######    -- [ ask ] -- [ bid ]
