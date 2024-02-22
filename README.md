@@ -112,3 +112,38 @@
 
 ####   010.  Listing e-Cash
 ######    -- [ Trade Exchange ]
+
+
+<br />
+
+
+####   011.  Merchants
+######    -- [ Payments ]
+
+
+<br />
+
+
+####   012.  Customers
+######    -- [ Payments ]
+
+
+<br />
+
+
+####   013.  Transfer
+######    -- [ Account ]
+
+
+<br />
+
+
+####   014.  Transactions
+######    -- [ STXO ] -- [ UTXO ]
+
+
+<br />
+
+
+####   015.  Messaging
+######    -- [ write ] -- [ read ]
