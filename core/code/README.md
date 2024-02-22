@@ -1,3 +1,3 @@
 ###    crypto_obfuscation.so
-######    secret key size
-######    xor
+######    xki( len(bytes_message.decode('utf')) )
+######    xor( bytes_message.decode('utf'), xor_key )
