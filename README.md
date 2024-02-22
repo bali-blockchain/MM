@@ -49,3 +49,10 @@
 
 ####   001.  Accounts
 ######    -- [ Time Bounded ] -- [ Locked ]
+
+
+<br />
+
+
+####   002.  Gaming
+######    -- [ Top-up ] -- [ Check-in ] -- [ Check-out ]
