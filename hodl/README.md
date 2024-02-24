@@ -23,6 +23,10 @@
     "header_hash"  : "",
 
     "header" : {
+        "version" : "",
+        "chain_id" : "",
+        "target" : 0,
+        "magic" : "",
         "previous_header_hash" : "",
         "nonce" : "",
         "timestamp" : 0,
