@@ -16,6 +16,36 @@
 
 
 
+```json
+
+{
+    "block_height" : 0,
+    "header_hash"  : "",
+
+    "header" : {
+        "previous_header_hash" : "",
+        "nonce" : "",
+        "timestamp" : 0,
+        "merkle_root" : "",
+    },
+
+    "data" : [
+        {
+            "000" : "",
+        },
+        {
+            "001" : "",
+        },
+    ]
+}
+
+```
+
+
+<br />
+
+
+
 ##    HODL X :  series 1-to-100
 ######  Auction Floor Price IDR 1 : 1 MM
 ####  Minimal Buy 
