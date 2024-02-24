@@ -3,6 +3,41 @@
 ##   MM : Money! Maker
 
 
+
+```json:
+
+bali blockchain from scratch checklist =
+{
+    "public_blockchain_keypair" : [],
+
+    "cryptography" : [],
+
+    "running_a_node" : [],
+    "bootstrap_seeds" : [],
+    "peers_list" : [],
+
+    "mempool" : [],
+
+    "message" : "bytes",
+    "FEE" : "20.000 IDR",
+    "New Mint Coin" : "Game Theory",
+
+    "consensus" : [],
+    "New_Block" : "target Block Time",
+
+    "blocks" : [ "block height, download, sync" ],
+
+    "smart_contracts" : " .wasm  .so ",
+    "auctions" : [],
+    "economics" : [],
+
+    "block_explorer" : [],
+}
+
+```
+
+
+
 <br />
 
 
