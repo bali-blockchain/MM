@@ -43,3 +43,20 @@
 ####    Block producer
 ######    Number of Unconfirmed Transactions in Mempool
 
+
+<br />
+
+
+####    Cryptography
+######    bytes          -- machine architecture
+######    xor            -- perfect secrecy
+######    encrypt        -- sign
+######    signature      -- authentication
+######    xdr            -- bytes packer
+######    base64         -- format
+######    locked         -- unlock by relevant recipient
+######    subentry       -- size of chunk
+######    merkle_root    -- tamper resistant 
+######    storage provider -- locked shields
+######    slot           -- each slot is 32-bytes allocation
+
