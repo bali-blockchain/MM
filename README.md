@@ -62,6 +62,20 @@ native assets =
 
 
 
+<br />
+
+
+
+```json:
+
+Auction series 1 =
+{
+    "sell 1 MM" : "buy 1 IDR",
+    "limited for 333 holders" : "minimal buy 1.000.000 IDR for each holder",
+    "fixed total supply" : "999.999.999 MM"
+}
+
+```
 
 
 <br />
