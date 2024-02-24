@@ -100,6 +100,32 @@ Auction series 2 =
 
 ```json:
 
+Exchange Rate =
+{
+    "1 XLM" : "2.000 IDR",
+}
+
+```
+
+
+
+<br />
+
+
+
+```json:
+
+base Transaction FEE =
+{
+    "base FEE" : "20.000 IDR",
+}
+
+```
+
+
+
+```json:
+
 Auction series 3 =
 {
     "sell 1 MM" : "buy 100 IDR",
