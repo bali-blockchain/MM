@@ -35,10 +35,10 @@
 
     "data" : [
         {
-            "000" : "",
+            "000" : "32-bytes allocation limit",
         },
         {
-            "001" : "",
+            "001" : "32-bytes allocation limit",
         },
     ]
 }
