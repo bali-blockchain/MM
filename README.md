@@ -34,7 +34,33 @@ bali blockchain from scratch checklist =
     "block_explorer" : [],
 }
 
+
 ```
+
+
+<br />
+
+
+
+```json:
+
+native assets =
+{
+    "MM" : {
+        "Cryptocurrency Trade Exchange Tiker Name",
+        "MM Coin backed by IDR : Indonesian Rupiah",
+        "Fixed Limited Total Supply",
+    },
+
+    "IDR" : {
+        "Instant Payment for Global Financial Markets",
+        "spendable in Money! Maker Blockchain",
+    },
+}
+
+```
+
+
 
 
 
