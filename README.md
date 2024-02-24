@@ -6,6 +6,8 @@
 
 ####   MM Chain : MM Blockchain
 ######  has multiple State Machines
+######  Censorship Resistant Node
+######  Hidden Socks based Privacy Secrecy Message
 ######  Consensus Game Theory based New Mint Coin
 ######  Secured Encrypted Message on-Chain
 ######  Auctions native Assets ( MM, IDR )
