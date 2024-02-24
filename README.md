@@ -4,6 +4,16 @@
 <br />
 
 
+####   MM Chain : MM Blockchain
+######  has multiple State Machines
+######  Consensus Game Theory based New Mint Coin
+######  Secured Encrypted Message on-Chain
+######  Auctions native Assets ( MM, IDR )
+
+
+<br />
+
+
 ####   MM:hodl ( Smart Contracts based Auctions )
 ######  Auction Floor Price IDR 1 : 1 MM
 ######  Auction Floor Price IDR 10 : 1 MM
