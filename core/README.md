@@ -1,5 +1,7 @@
 ####    MM:Core
 ######    target chainstate 6 seconds
+######    MM Chain : Money! Maker Chain
+######    MM Blockchain : Money! Maker Blockchain
 
 
 <br />
@@ -59,4 +61,13 @@
 ######    merkle_root    -- tamper resistant 
 ######    storage provider -- locked shields
 ######    slot           -- each slot is 32-bytes allocation
+
+
+<br />
+
+
+####    produce New Block economics
+######    Consensus is multi-signers based
+######    Coinbase Output amount is based in Game Theory
+######    invoke New Block Contract FEE is 20.000 IDR
 
