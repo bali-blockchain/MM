@@ -19,7 +19,7 @@ bali blockchain from scratch checklist =
     "mempool" : [],
 
     "message" : "bytes",
-    "FEE" : "20.000 IDR",
+    "FEE" : "20.000 IDR",  # Twenty Thousand Indonesian Rupiah
     "New Mint Coin" : "Game Theory",
 
     "consensus" : [],
