@@ -71,7 +71,7 @@ native assets =
 Auction series 1 =
 {
     "sell 1 MM" : "buy 1 IDR",
-    "limited for 250 holders" : "minimal buy 1.000.000 IDR for each holder",
+    "limited for 100 holders" : "minimal buy 1.000.000 IDR for each holder",
     "fixed total supply" : "999.999.999. IDR"
 }
 
@@ -87,7 +87,7 @@ Auction series 1 =
 Auction series 2 =
 {
     "sell 1 MM" : "buy 10 IDR",
-    "limited for 100 holders" : "minimal buy 1.000.000 IDR for each holder",
+    "limited for 50 holders" : "minimal buy 1.000.000 IDR for each holder",
     "fixed total supply" : "500.000.000 IDR",
 }
 
