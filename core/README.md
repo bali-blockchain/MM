@@ -71,3 +71,12 @@
 ######    Coinbase Output amount is based in Game Theory
 ######    invoke New Block Contract FEE is 20.000 IDR
 
+
+<br />
+
+
+####    Campaigns
+######    invoke compiled Executable files
+######    Secure Messaging Stored on-Chain
+######    Activities based on Public Blockchain Accounts
+
