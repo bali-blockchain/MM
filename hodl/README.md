@@ -22,20 +22,3 @@ Exchange Rate =
 
 ```
 
-
-
-<br />
-
-
-
-```json:
-
-base Transaction FEE =
-{
-    "base FEE" : "20.000 IDR",
-}
-
-```
-
-
-
