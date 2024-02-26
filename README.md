@@ -8,15 +8,15 @@
 
 Block
 {
+    #  Need To Know basis
+    #  Confidential between Alice & Bob
+
     "block_height" : 0,
     "header_hash"  : "",
 
     "header" : {
         "version" : "",
         "brand" : "Money! Maker",
-        "previous_header_hash" : "",
-        "source" : "",
-        "destination" : "",
         "chunk_count" : 3,
         "checksum" : "",
         "nonce" : "",
