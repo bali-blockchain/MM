@@ -23,15 +23,21 @@ Block
         "timestamp" : 0,
     },
 
+    #  download & sync between Alice & Bob
+    #  locked shields & stealth
+    #  relevant only between Alice & Bob
+
+    #  No Need Storage Fee
+
     "chunk" : [
         {
-            "000" : "32-bytes : 1 IDR fee"
+            "000" : "32-bytes"
         },
         {
-            "001" : "32-bytes : 1 IDR fee"
+            "001" : "32-bytes"
         },
         {
-            "002" : "32-bytes : 1 IDR fee"
+            "002" : "32-bytes"
         },
     ],
 }
