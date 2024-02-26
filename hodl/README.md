@@ -1,6 +1,6 @@
 ```json:
 
-Auction MM =
+Auction MM New Account Activation =
 {
     "sell 1 MM" : "buy 1 IDR",
     "limited for 100 holders" : "minimal buy 1.000.000 IDR for each holder",
