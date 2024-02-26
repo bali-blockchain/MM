@@ -9,7 +9,8 @@
 Block
 {
     #  Need To Know basis
-    #  Confidential between Alice & Bob
+    #  Confidential
+    #  between Alice & Bob
 
     "block_height" : 0,
     "header_hash"  : "",
@@ -23,9 +24,11 @@ Block
         "timestamp" : 0,
     },
 
-    #  download & sync between Alice & Bob
+    #  download & sync
     #  locked shields & stealth
-    #  relevant only between Alice & Bob
+
+    #  only Alice & Bob
+    #  can decipher
 
     #  No Need Storage Fee
 
@@ -52,12 +55,13 @@ Block
 
 ```json:
 
-The 1st and finalized Auction
+on-chain Auction
 New Account Activation =
 {
     "sell 1 MM" : "buy 1 IDR",
-    "100 holders" : "minimal buy 1.000.000 IDR",
-    "auction total supply" : "100.000.000. IDR"
+    "holders" : 100,
+    "minimal buy" : 1.000.000 IDR",
+    "scarcity" : "100.000.000. IDR"
 }
 
 ```
