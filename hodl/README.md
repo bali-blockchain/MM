@@ -22,3 +22,33 @@ Exchange Rate =
 
 ```
 
+
+<br />
+
+
+```
+
+  retrieve secure encrypted message
+  Hidden & Isolated endpoint
+
+  New Account Activation 
+  Minimal Balance 
+  1.000.000 IDR
+
+  Transactions
+  Instant Payment
+
+  Storage
+  Secure end-to-end Replication
+  Relevant Network Ledger/Records
+
+  KYC
+  Know You Client
+  Real Name
+
+  Preserving Privacy
+  Real-World Assets
+
+```
+
+
