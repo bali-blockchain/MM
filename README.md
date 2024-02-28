@@ -2,13 +2,6 @@
 
 
 
-<br />
-
-
-
-![Alice and Bob](_Alice_Bob_.jpg)
-
-
 
 <br />
 
