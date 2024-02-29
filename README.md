@@ -14,6 +14,73 @@
 <br />
 
 
+```json:
+
+class Chain :
+    
+    def __init__(self, change_of_state="initialized methods chaining") :
+        self.change_of_state = change_of_state
+        return None
+    
+    def setKeypair(self) :
+        self.change_of_state = "new keypair"
+        return self
+    
+    def setBootstrap(self) :
+        self.change_of_state = "estalish bootstrap"
+        return self
+    
+    def setPeersDiscovery(self) :
+        self.change_of_state = "Peers list discovery"
+        return self
+    
+    def setLiveNetwork(self) :
+        self.change_of_state = "connect to live! market"
+        return self
+    
+    def setInventory(self) :
+        self.change_of_state = "fetch Block height"
+        return self
+    
+    def setDownload(self) :
+        self.change_of_state = "downloading block #"
+        return self
+    
+    def setConsensus(self) :
+        self.change_of_state = "establish Consensus Governance"
+        return self
+
+
+
+
+>>> c =  Chain()
+>>> c.change_of_state
+'initialized methods chaining'
+>>> 
+>>> 
+>>> 
+>>> 
+>>> c.setKeypair().setBootstrap()
+<__main__.Chain object at 0x7f69149b83a0>
+>>> 
+>>> c.change_of_state
+'estalish bootstrap'
+>>> 
+>>> 
+>>> 
+>>> 
+>>> c.setPeersDiscovery().setLiveNetwork().setInventory().setDownload().setConsensus()
+<__main__.Chain object at 0x7f69149b83a0>
+>>> 
+>>> c.change_of_state
+'establish Consensus Governance'
+
+```
+
+
+<br />
+
+
 
 ![message ecryption](_message_.png)
 
