@@ -40,3 +40,24 @@
 
 
 ![_MM_backed_by_XLM_](_MM_backed_by_XLM_.png)
+
+
+
+<br />
+
+
+![_MM_cipher_base64_](_MM_data_cipher_.png)
+
+
+
+<br />
+
+
+![_MM_chunk_fee_](_MM_data_chunk_.png)
+
+
+
+<br />
+
+
+![_MM_recipient_privacy_](_MM_data_privacy_.png)
