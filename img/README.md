@@ -60,6 +60,14 @@ Smart Contracts on mobile platforms {
         * Crowdfunding
         * DAO
         * DeX
+
+        * Automation in Marketing
+        * Automation in Finance
+        * Automation in Services
+        * Automation in Marketing
+        * Automation in Artificial Intelligence
+        * Automation in Peer-to-Peer Blockchain
+        * Automation in Smart Contracts on P2P Blockchain
     ],
 
     data : [
