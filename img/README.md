@@ -34,7 +34,9 @@ Smart Contracts on mobile platforms {
     code : [
         #//!  multi-processing CPU bound
 
-       .so file  sponsor IDR
+        collection of niche IDR NFT
+       .so files sponsor_id IDR NFT
+
         Game Theory
 
 
