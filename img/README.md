@@ -7,40 +7,62 @@
 Smart Contracts on mobile platforms {
 
     User_Interface : [
+        #//!  interacting with Smart Contracts
 
         attribues & properties
     ],
 
     peers : [
+        #//!  bootstrap node
 
-        bootstrap node
         peer-to-peer list
     ],
 
     mempool : [
+        #//!  deploy Contract
 
         pending Sponsor_id
        "IDR NFT" await Activation
     },
 
     mint : [
+        #//!  invoke Contract
 
         claim "IDR NFT" balance_id
     ],
 
     code : [
+        #//!  multi-processing CPU bound
 
        .so file  sponsor IDR
         Game Theory
+
 
         in                    out
 
         tx  state automation  blk
         tx  state transition  blk
         tx  state life-cycle  blk
+
+
+        DApps
+
+        * issue IDR native asset --GAS
+        * issue MM  fungible token --eCash
+
+        * execute
+          Secure Encrypted Messaging by P2P Blockchain
+
+        * Ongoing Continuous Streaming Auctions
+
+        * Crowdfunding
+        * DAO
+        * DeX
     ],
 
     data : [
+        #//!  multi-tasking I/O bound
+
         subentry_count
         chunk_bytes_size
     ]
