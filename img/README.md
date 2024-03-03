@@ -1,3 +1,50 @@
+```json:
+
+MM : Money! Maker
+Smart Contracts on mobile platforms {
+
+    User_Interface : [
+
+        attribues & properties
+    ],
+
+    mempool : [
+
+        pending Sponsor_id
+       "IDR NFT" await Activation
+    },
+
+    mint : [
+
+        claim "IDR NFT" balance_id
+    ],
+
+    code : [
+
+       .so file  sponsor IDR
+        Game Theory
+
+        in                    out
+
+        tx  state automation  blk
+        tx  state transition  blk
+        tx  state life-cycle  blk
+    ],
+
+    data : [
+        subentry_count
+        chunk_bytes_size
+    ]
+
+}
+
+```
+
+
+<br />
+
+
+
 ![_MM_connect_to_seed_](_MM_con_seed_.png)
 
 
