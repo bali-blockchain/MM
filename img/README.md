@@ -1,3 +1,11 @@
+![_MM_connect_to_seed_](_MM_con_seed_.png)
+
+
+
+<br />
+
+
+
 ![_MM_Messaging_UI_](_MM_v0.11.0_.png)
 
 
