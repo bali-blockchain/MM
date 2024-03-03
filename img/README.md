@@ -1,11 +1,20 @@
 ```json:
+#//!  MM : Money! Maker
+#//!       Decentralized Finite State Automation
 
-MM : Money! Maker
+
+
 Smart Contracts on mobile platforms {
 
     User_Interface : [
 
         attribues & properties
+    ],
+
+    peers : [
+
+        bootstrap node
+        peer-to-peer list
     ],
 
     mempool : [
