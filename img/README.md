@@ -112,7 +112,21 @@ send Transaction, Mining Fee
 Rp. 5.000
 
 
-```
+each Auction
+is
+Five(5) days
+
+
+New Mint
+
+Sold Auction
+to
+Holder Address  ( individual owner )
+
+Unsold Auction
+to
+Trader Address  ( Money! Maker Trader )
+
 
 
 <br />
