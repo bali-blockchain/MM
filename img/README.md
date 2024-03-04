@@ -136,6 +136,23 @@ Trader Address  ( Money! Maker Trader )
 
 
 
+```json:
+wallet with No Fund
+
+cannot
+Connect To Money! Maker
+
+as
+Account does not exist
+
+```
+
+
+
+<br />
+
+
+
 ![_MM_connect_to_seed_](_MM_con_seed_.png)
 
 
