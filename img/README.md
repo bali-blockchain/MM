@@ -87,7 +87,7 @@ Smart Contracts on mobile platforms {
 
 
 ```json:
-
+each                       each
 finalized Auctions         Auction Bid 1 MM
 
 will
