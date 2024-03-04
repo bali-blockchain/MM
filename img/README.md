@@ -145,6 +145,9 @@ Connect To Money! Maker
 as
 Account does not exist
 
+No
+Minimal Balance rules of engagement
+
 ```
 
 
