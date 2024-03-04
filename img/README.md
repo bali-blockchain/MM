@@ -123,6 +123,31 @@ New Mint MM Coins          Minimal Floor Price
 All Auctions
 Minimal BUY amount         Rp. 2.000.000
 
+
+New Mint
+in
+Auctions
+163.144.441 MM
+
+
+Total Fixed Circulation
+is
+333.000.000 MM
+
+
+New Mint
+in
+Mining Pool
+
+169.855.559 MM
+as
+Rewards for Transaction sender
+
+
+send Transaction, Mining Fee
+Rp. 20.000
+
+
 ```
 
 
