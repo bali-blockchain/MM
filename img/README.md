@@ -86,6 +86,50 @@ Smart Contracts on mobile platforms {
 
 
 
+```json:
+
+finalized Auctions         Auction Bid 1 MM
+
+will
+New Mint MM Coins          Minimal Floor Price
+
+          1 MM             Rp. 1.500.000
+
+          5 MM             Rp  1.000.000
+         10 MM             Rp.   500.000
+         25 MM             Rp.   250.000
+
+         50 MM             Rp.   100.000
+        100 MM             Rp.    50.000
+        250 MM             Rp.    25.000
+
+        500 MM             Rp.    10.000
+      1.000 MM             Rp.     5.000
+      2.500 MM             Rp.     2.500
+
+      5.000 MM             Rp.     1.000
+     10.000 MM             Rp.       500
+     25.000 MM             Rp.       250
+
+    100.000 MM             Rp.       100
+    500.000 MM             Rp.        50
+  2.500.000 MM             Rp.        25
+
+ 10.000.000 MM             Rp.        10
+ 50.000.000 MM             Rp.         5
+100.000.000 MM             Rp.         1
+
+
+All Auctions
+Minimal BUY amount         Rp. 2.000.000
+
+```
+
+
+<br />
+
+
+
 ![_MM_connect_to_seed_](_MM_con_seed_.png)
 
 
