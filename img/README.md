@@ -24,6 +24,7 @@ Bootstrapping
 
 I/O bound   sync   continuous streaming
 
+
                    # The Onion Router
 replicate   pub    Stealth Chains
 
