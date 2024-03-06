@@ -10,6 +10,9 @@
 state machines
 PKI : Public  Key  Infrastructure
 
+what's your Repudiation  Bima id ?
+Bima-to-Bima Secrets on Blockchain
+
 
 Stealth id : Alice sync p2p {
 
