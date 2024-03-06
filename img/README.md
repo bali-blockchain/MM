@@ -10,12 +10,12 @@
 state machines
 PKI : Public Key Infrastructure
 
-*  class function call chain
-*  blockchain  wallet  pools
-*  blockchain  storage pools
+*  class  functions  chaining
+*  blockchain  wallet   pools
+*  blockchain  storage  pools
 
 
-Node id : Alice sync p2p {
+Stealth id : Alice sync p2p {
 
     bima_000 : [  onion id ],
     bima_001 : [  onion id ],
