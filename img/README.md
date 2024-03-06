@@ -7,7 +7,8 @@
 
 
 ```json:
-high-performance peer-to-peer state machines
+high-performance   peer-to-peer   state machines
+instant     encrypted messaging   on blockchain
 
 *  class function call chaining
 *  blockchain   wallet    pools
@@ -38,7 +39,6 @@ storage pools refresh every 24hr {
 
 }
 
-*  instant encrypted messaging on-chain
 ```
 
 
