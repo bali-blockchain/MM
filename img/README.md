@@ -56,12 +56,9 @@ Locked Shields : Alice sync {
 
 
 ```json:
-#//!  MM : Market! Makers
-#//!       Decentralized Finite State Automation
+Market! Makers
 
-
-
-Smart Contracts on mobile platforms {
+Smart Contracts on Mobile! Money Blockchain {
 
     User_Interface : [
         #//!  interacting with Smart Contracts
