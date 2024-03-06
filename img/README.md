@@ -7,10 +7,7 @@
 
 
 ```json:
-state machines
-PKI : Public Key Infrastructure
-
-what's your Repudiation Bima ?
+what's your Repudiation Bima?
 Bima-to-Bima Secrets on Chain
 
 
