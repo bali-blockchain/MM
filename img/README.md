@@ -206,6 +206,54 @@ Market! Makers
 
 
 
+<br />
+
+
+
+```json:
+Rules      Propagate  aka. Broadcast
+
+           to 
+           Pure Peer-to-Peer Network
+
+           to
+           All Participants
+
+           aka.
+           Peer Nodes
+
+           aka.
+           Active Activated Addresses
+
+           aka.
+           Well Funded Addresses
+
+           aka.
+           Quality Liquidity Addresses
+
+
+     Tx    Transaction
+
+
+send Tx    deploy    Chat
+send Tx    invoke    Chat
+
+send Tx    deploy    Message
+send Tx    invoke    Message
+
+send Tx    deploy    Contract
+send Tx    invoke    Contract
+
+send Tx    deploy    NFT
+send Tx    invoke    NFT
+
+send Tx    deploy    Auction
+send Tx    invoke    Auction
+
+```
+
+
+
 
 <br />
 
