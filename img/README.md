@@ -15,27 +15,39 @@ instant     encrypted messaging   on blockchain
 *  blockchain   storage   pools
 
 
-wallet pools refresh every 24hr {
+Peer pools : Alice sync p2p {
 
-    bima_000 : [  tx_id, tx_id, ... ],
-    bima_001 : [  tx_id, tx_id, ... ],
-    bima_002 : [  tx_id, tx_id, ... ],
+    bima_000 : [  onion id ],
+    bima_001 : [  onion id ],
+    bima_002 : [  onion id ],
 
-    bima_997 : [  tx_id, tx_id, ... ],
-    bima_998 : [  tx_id, tx_id, ... ],
-    bima_999 : [  tx_id, tx_id, ... ],
+    bima_997 : [  onion id ],
+    bima_998 : [  onion id ],
+    bima_999 : [  onion id ],
 
 }
 
-storage pools refresh every 24hr {
+wallet pools : Alice sync p2p {
 
-    bima_000 : [  encrypted chunks, encrypted chunks, ... ],
-    bima_001 : [  encrypted chunks, encrypted chunks, ... ],
-    bima_002 : [  encrypted chunks, encrypted chunks, ... ],
+    bima_000 : [  keys ],
+    bima_001 : [  keys ],
+    bima_002 : [  keys ],
 
-    bima_997 : [  encrypted chunks, encrypted chunks, ... ],
-    bima_998 : [  encrypted chunks, encrypted chunks, ... ],
-    bima_999 : [  encrypted chunks, encrypted chunks, ... ],
+    bima_997 : [  keys ],
+    bima_998 : [  keys ],
+    bima_999 : [  keys ],
+
+}
+
+storage pools : Alice sync p2p {
+
+    bima_000 : [  secrets ],
+    bima_001 : [  secrets ],
+    bima_002 : [  secrets ],
+
+    bima_997 : [  secrets ],
+    bima_998 : [  secrets ],
+    bima_999 : [  secrets ],
 
 }
 
