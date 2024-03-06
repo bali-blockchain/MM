@@ -11,39 +11,39 @@ what's your Repudiation Bima?
 Bima-to-Bima Secrets on Chain
 
 
-Stealth id : Alice sync p2p {
+Stealth id : Alice sync {
 
-    bima_000 : [  onion id ],
-    bima_001 : [  onion id ],
-    bima_002 : [  onion id ],
+    bima_000 : [ onion id ],
+    bima_001 : [ onion id ],
+    bima_002 : [ onion id ],
 
-    bima_997 : [  onion id ],
-    bima_998 : [  onion id ],
-    bima_999 : [  onion id ],
-
-}
-
-stored PKI : Alice sync p2p {
-
-    bima_000 : [  keys ],
-    bima_001 : [  keys ],
-    bima_002 : [  keys ],
-
-    bima_997 : [  keys ],
-    bima_998 : [  keys ],
-    bima_999 : [  keys ],
+    bima_997 : [ onion id ],
+    bima_998 : [ onion id ],
+    bima_999 : [ onion id ],
 
 }
 
-Locked Shields : Alice sync p2p {
+stored Keys : Alice sync {
 
-    bima_000 : [  secrets ],
-    bima_001 : [  secrets ],
-    bima_002 : [  secrets ],
+    bima_000 : [ bit-size ],
+    bima_001 : [ bit-size ],
+    bima_002 : [ bit-size ],
 
-    bima_997 : [  secrets ],
-    bima_998 : [  secrets ],
-    bima_999 : [  secrets ],
+    bima_997 : [ bit-size ],
+    bima_998 : [ bit-size ],
+    bima_999 : [ bit-size ],
+
+}
+
+Locked Shields : Alice sync {
+
+    bima_000 : [ ciphers ],
+    bima_001 : [ ciphers ],
+    bima_002 : [ ciphers ],
+
+    bima_997 : [ ciphers ],
+    bima_998 : [ ciphers ],
+    bima_999 : [ ciphers ],
 
 }
 
