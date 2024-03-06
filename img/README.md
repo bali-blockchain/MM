@@ -8,11 +8,7 @@
 
 ```json:
 state machines
-PKI : Public Key Infrastructure
-
-*  class  functions  chaining
-*  blockchain  wallet   pools
-*  blockchain  storage  pools
+PKI : Public  Key  Infrastructure
 
 
 Stealth id : Alice sync p2p {
