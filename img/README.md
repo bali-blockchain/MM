@@ -15,7 +15,7 @@ PKI : Public Key Infrastructure
 *  blockchain  storage pools
 
 
-Peer pools : Alice sync p2p {
+Node id : Alice sync p2p {
 
     bima_000 : [  onion id ],
     bima_001 : [  onion id ],
@@ -27,7 +27,7 @@ Peer pools : Alice sync p2p {
 
 }
 
-PKI pools : Alice sync p2p {
+PKI id : Alice sync p2p {
 
     bima_000 : [  keys ],
     bima_001 : [  keys ],
@@ -39,7 +39,7 @@ PKI pools : Alice sync p2p {
 
 }
 
-storage pools : Alice sync p2p {
+Locked Shields : Alice sync p2p {
 
     bima_000 : [  secrets ],
     bima_001 : [  secrets ],
