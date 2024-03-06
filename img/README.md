@@ -7,12 +7,12 @@
 
 
 ```json:
-high-performance   peer-to-peer   state machines
-instant     encrypted messaging   on blockchain
+state machines
+PKI : Public Key Infrastructure
 
-*  class function call chaining
-*  blockchain   wallet    pools
-*  blockchain   storage   pools
+*  class function call chain
+*  blockchain  wallet  pools
+*  blockchain  storage pools
 
 
 Peer pools : Alice sync p2p {
@@ -27,7 +27,7 @@ Peer pools : Alice sync p2p {
 
 }
 
-wallet pools : Alice sync p2p {
+PKI pools : Alice sync p2p {
 
     bima_000 : [  keys ],
     bima_001 : [  keys ],
