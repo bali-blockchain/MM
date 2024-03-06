@@ -23,7 +23,7 @@ Stealth id : Alice sync p2p {
 
 }
 
-PKI id : Alice sync p2p {
+stored PKI : Alice sync p2p {
 
     bima_000 : [  keys ],
     bima_001 : [  keys ],
