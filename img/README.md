@@ -1,3 +1,11 @@
+![_MM_Secrets_on_Blockchain_](_MM_encrypted_secrets_.png)
+
+
+
+<br />
+
+
+
 ```json:
 #//!  MM : Market! Makers
 #//!       Decentralized Finite State Automation
