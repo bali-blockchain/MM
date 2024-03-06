@@ -1,5 +1,5 @@
 ```json:
-#//!  MM : Money! Maker
+#//!  MM : Market! Makers
 #//!       Decentralized Finite State Automation
 
 
@@ -129,6 +129,81 @@ Trader Address  ( Money! Maker Trader )
 
 
 ```
+
+
+
+<br />
+
+
+
+```json:
+Market! Makers
+
+
+
+
+           Market
+  Buyer              Seller
+           Makers
+
+
+
+
+  RPC
+  API
+
+  storage
+           public
+           Stellar Financial Network
+
+           aka. native asset
+                XLM
+
+           aka. Trustline
+                NFT
+
+           aka. Trustline
+                COIN
+
+
+
+
+  RPC
+  API
+
+  storage
+           public
+           storage providers
+
+           aka. Decentralized Operators
+                stored data
+
+
+
+
+  RPC
+  API
+
+  storage
+           private
+           local storage
+
+           aka. wallet
+                stored transactions
+
+
+
+
+  CLi
+
+  module
+           runtime
+
+           aka. pallet
+           aka. Contract
+           aka. Decentralized Applications
+```
+
 
 
 
