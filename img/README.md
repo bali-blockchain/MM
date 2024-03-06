@@ -141,21 +141,18 @@ Smart Contracts on Mobile! Money Blockchain {
 
 
 ```json:
-each                       each
-finalized Auctions         Auction Bid 1 MM
+Auctions Collectors series
+New Mint Coin  Floor Price
 
-will
-New Mint MM Coins          Minimal Floor Price
-
-  50.000.000 MM            Rp.      5
-   5.000.000 MM            Rp.     50
-     500.000 MM            Rp.    500
-      50.000 MM            Rp.  5.000
-       5.000 MM            Rp. 50.000
+MM 50.000.000 :      5 IDR
+MM  5.000.000 :     50 IDR
+MM    500.000 :    500 IDR
+MM     50.000 :  5.000 IDR
+MM      5.000 : 50.000 IDR
 
 
 Fixed Total Supply
-  55.555.000 MM
+   55.555.000 MM e-Cash
 
 
 Minimal
