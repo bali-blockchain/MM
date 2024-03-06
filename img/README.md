@@ -7,6 +7,64 @@
 
 
 ```json:
+Bootstrapping
+
+      Startup
+      Launching
+
+      bootstrap set-of-heights
+      available strengths & resources
+
+     "Be Part of The Community"
+
+
+
+
+* seeds
+
+I/O bound   sync   continuous streaming
+
+                   # The Onion Router
+replicate   pub    Stealth Chains
+
+                   # Cipher Secrets 
+replicate   pub     Locked Shields
+
+                    # eCash Payments    
+replicate   pub     Assets Trustline    
+
+
+
+
+* alice
+
+I/O bound   sync   continuous streaming
+
+
+replicate   pub    Stealth Chains
+replicate   pub     Locked Shields
+replicate   pub     Assets Trustline
+
+
+
+
+* bob
+
+I/O bound   sync   continuous streaming
+
+
+replicate   pub    Stealth Chains
+replicate   pub     Locked Shields
+replicate   pub     Assets Trustline
+```
+
+
+
+<br />
+
+
+
+```json:
 what's your Repudiation Bima?
 Bima-to-Bima Secrets on Chain
 
