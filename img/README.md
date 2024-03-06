@@ -7,6 +7,47 @@
 
 
 ```json:
+high-performance peer-to-peer state machines
+
+*  class function call chaining
+*  blockchain   wallet    pools
+*  blockchain   storage   pools
+
+
+wallet pools refresh every 24hr {
+
+    bima_000 : [  tx_id, tx_id, ... ],
+    bima_001 : [  tx_id, tx_id, ... ],
+    bima_002 : [  tx_id, tx_id, ... ],
+
+    bima_997 : [  tx_id, tx_id, ... ],
+    bima_998 : [  tx_id, tx_id, ... ],
+    bima_999 : [  tx_id, tx_id, ... ],
+
+}
+
+storage pools refresh every 24hr {
+
+    bima_000 : [  encrypted chunks, encrypted chunks, ... ],
+    bima_001 : [  encrypted chunks, encrypted chunks, ... ],
+    bima_002 : [  encrypted chunks, encrypted chunks, ... ],
+
+    bima_997 : [  encrypted chunks, encrypted chunks, ... ],
+    bima_998 : [  encrypted chunks, encrypted chunks, ... ],
+    bima_999 : [  encrypted chunks, encrypted chunks, ... ],
+
+}
+
+*  instant encrypted messaging on-chain
+```
+
+
+
+<br />
+
+
+
+```json:
 #//!  MM : Market! Makers
 #//!       Decentralized Finite State Automation
 
