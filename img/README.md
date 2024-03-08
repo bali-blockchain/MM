@@ -7,6 +7,68 @@
 
 
 ```json:
+send secure transaction
+deploy
+encrypted messaging
+on
+blockchain
+
+
+Alice [
+    has a Packet
+    securely encrypted
+    privately for Bob
+]
+
+retrieve Bob [
+    latest public key
+    from
+    peers list
+]
+
+xdr Packer() [
+    pack bytes packet
+    packet hash
+    sign hash
+]
+
+payload [
+    base64 encode
+]
+
+
+Create [
+    New Block
+    pack state variables
+
+]
+
+send transaction [
+    deploy New Mint Block
+]
+
+Transaction Mining Pool [
+    sync by Peer-to-Peer
+]
+
+Mempool [
+    only Bob can Mine
+    only Bob can unlock
+    unlock state variables
+] 
+
+The Proper Correct Way
+"send Tx cipher data to Blockchain"
+
+```
+
+
+
+<br />
+
+
+
+```json:
 Bootstrapping
 
       Startup
