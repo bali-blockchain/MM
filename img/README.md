@@ -64,14 +64,14 @@ Transaction Mining Pool [
 ]
 
 Mempool [
-    implies All Nodes must sync
+    implies All Nodes in sync
 
     All nodes will receive
     Transmitted, or Submitted
    "Transaction cipher data"
 
-    only Bob can Mine what's his
-    only Bob can unlock his packet
+    Bob can Mine what's his
+    Bob can unlock his packet
     unlock cipher state variables
 ] 
 
