@@ -7,6 +7,22 @@
 
 
 ```json:
+Money!
+Guarantee
+    1 : 1
+
+    100 %
+Guarantee
+All HODLER of native asset IDR
+```
+
+
+
+<br />
+
+
+
+```json:
 capabilities
 
 Create    "Sponsor Claimant Liquidity"
