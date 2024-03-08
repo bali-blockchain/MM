@@ -7,6 +7,52 @@
 
 
 ```json:
+Alice
+
+send
+Tx:Transaction
+
+to
+her Mempool
+
+implied
+it's pending confirmation
+
+to
+be included Block in her Chain
+```
+
+
+
+<br />
+
+
+
+```json:
+Alice
+broadcast her Tx:Transaction
+
+to
+All Active Reachable peer Nodes
+
+to
+their Mempool
+
+implied
+it's pending Tx confirmation
+
+to
+be included Block in their Chains
+```
+
+
+
+
+<br />
+
+
+
+```json:
 incentivize manage data
 
 Alice
