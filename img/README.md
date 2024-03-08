@@ -75,10 +75,34 @@ Mempool [
 
     unlock
     cipher state variables
-] 
+]
 
-The Proper Correct Way
-"send Tx cipher data to Blockchain"
+```
+
+
+
+<br />
+
+
+
+
+```json:
+The Correct Proper Way
+
+send
+Tx : Transaction
+
+deploy
+cipher data
+
+to
+Blockchain
+
+mining
+Tx : Transaction
+
+unlock
+cipher state variables
 
 ```
 
