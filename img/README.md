@@ -7,6 +7,24 @@
 
 
 ```json:
+capabilities
+
+Create    "Sponsor Claimant Liquidity"
+
+&
+Claim     "balance id"
+
+or
+invoke    "balance id"
+```
+
+
+
+<br />
+
+
+
+```json:
 Alice
 
 send
