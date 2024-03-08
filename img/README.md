@@ -24,10 +24,14 @@ All HODLER of native asset IDR
 
 ```json:
 native asset IDR
-encrypted payment channel
-BIMA id CREDENTIAL based
 
-Strong Security, Privacy, Safe & Confidential
+encrypted payment channel
+
+CREDENTIAL based on BIMA id
+
+Strong Security
+Privacy Preserving
+Safe & Confidential
 
 No HODL, No Wealth!
 
@@ -40,14 +44,24 @@ Smart Contract
 50%
 share GAS fee commission
 
-backed by    Asset of High Quality Liquidity
-paired with  Asset of High Quality Liquidity
-pegged to    Asset of High Quality Liquidity
+
+backed
+by
+Asset of High Quality Liquidity
+
+paired
+with
+Asset of High Quality Liquidity
+
+pegged
+to
+Asset of High Quality Liquidity
+
 
 instant Payment
 Swap  "pair of COINS"  across All Chains
 
-Non-Custodial
+Non-Custodial wallet
 
 running  your own  Blockchain
  mining  your own  New Mint Coin
