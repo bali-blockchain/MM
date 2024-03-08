@@ -36,6 +36,18 @@ payload [
     base64 encode
 ]
 
+Locked Shields [
+    cipher payload
+    with
+    Bob's public key
+
+    only
+    Bob can unlock
+
+    in
+    Mining Pool
+]
+
 
 Create [
     New Block
