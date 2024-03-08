@@ -7,6 +7,64 @@
 
 
 ```json:
+incentivize manage data
+
+Alice
+sponsor quality liquidity
+
+in
+excellent amount in XLM
+
+to
+Public Storage Providers
+
+or
+Public Blockchain
+
+to mine
+her New Mint Blocks
+
+it's
+send Transaction cipher data
+
+deploy
+to
+public blockchain
+
+for
+Bob
+
+minimal Claim amount
+on
+confirmation
+of
+Blocks on Chain
+
+maximal Claim amount
+when Bob access
+the
+encrypted Block
+from
+Storage Provider's Chain
+
+or
+Bob invoke Blocks
+on
+specific
+Storage Provider's Chain
+
+Storage Provider's Chain
+is
+Claimant of Maximum amount
+```
+
+
+
+<br />
+
+
+
+```json:
 send secure transaction
 deploy
 encrypted messaging
