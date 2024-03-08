@@ -23,6 +23,48 @@ All HODLER of native asset IDR
 
 
 ```json:
+native asset IDR
+encrypted payment channel
+BIMA id CREDENTIAL based
+
+Strong Security, Privacy, Safe & Confidential
+
+No HODL, No Wealth!
+
+stored peer encrypted blocks
+50%
+share Transaction fee commission
+
+stored peer compiled executable
+Smart Contract
+50%
+share GAS fee commission
+
+backed by    Asset of High Quality Liquidity
+paired with  Asset of High Quality Liquidity
+pegged to    Asset of High Quality Liquidity
+
+instant Payment
+Swap  "pair of COINS"  across All Chains
+
+Non-Custodial
+
+running  your own  Blockchain
+ mining  your own  New Mint Coin
+
+Censorship Resistance
+      Hack Resistance
+
+distributed SHUFFLING
+```
+
+
+
+<br />
+
+
+
+```json:
 capabilities
 
 Create    "Sponsor Claimant Liquidity"
