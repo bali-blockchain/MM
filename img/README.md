@@ -72,7 +72,9 @@ Mempool [
 
     Bob can Mine what's his
     Bob can unlock his packet
-    unlock cipher state variables
+
+    unlock
+    cipher state variables
 ] 
 
 The Proper Correct Way
