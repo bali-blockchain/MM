@@ -18,8 +18,8 @@ her Mempool
 implied
 it's pending confirmation
 
-to
-be included Block in her Chain
+mine
+New Mint Blocks on her Chain
 ```
 
 
@@ -33,7 +33,7 @@ Alice
 broadcast her Tx:Transaction
 
 to
-All Active Reachable peer Nodes
+All Active Reachable Nodes
 
 to
 their Mempool
@@ -41,8 +41,8 @@ their Mempool
 implied
 it's pending Tx confirmation
 
-to
-be included Block in their Chains
+mine
+New Blocks on their Chains
 ```
 
 
