@@ -66,6 +66,25 @@ Poker Money! Tree
 
 
 ```json:
+send Transactions
+
+to
+deploy cipher   code on blockchain
+
+to
+invoke execute  code on blockchain
+
+
+stored data
+state variables
+```
+
+
+<br />
+
+
+
+```json:
 instant New Mint Cipher Block on Chains
 ```
 
