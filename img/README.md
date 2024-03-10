@@ -46,6 +46,33 @@ GAS execute Code
 
 
 ```json:
+unlock
+True Decentralized Blockchain
+
+with
+True Global Opportunities
+
+New
+Mint Digital Assets
+
+NFT
+Whale Collector
+issue
+only One (1)
+
+COINS
+Financial System
+issue
+Sponsor Claimable Balance
+```
+
+
+
+<br />
+
+
+
+```json:
 Cash Cows Apps
 ```
 
