@@ -7,6 +7,37 @@
 
 
 ```json:
+to
+Activate New Account
+
+or
+Exist
+
+w/
+Cash Cows Coins
+Blockchains Groups
+
+Minimal Deposit
+1.000.000 IDR
+
+
+base Reserve
+  100.000 IDR
+
+Transaction Fee
+    1.000 IDR
+
+GAS execute Code
+   20.000 IDR
+```
+
+
+
+<br />
+
+
+
+```json:
 Cash Cows Apps
 ```
 
