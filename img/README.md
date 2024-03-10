@@ -61,6 +61,77 @@ Poker Money! Tree
 ```
 
 
+<br />
+
+
+
+```json:
+instant New Mint Cipher Block on Chains
+```
+
+
+
+<br />
+
+
+
+```json:
+height : 0,
+
+header_hash :  "",
+
+
+
+header : {
+
+    server    :  ".onion"
+    network   :  "MainNet, Cash Cows Coins",
+
+    prev_header_hash :  "",
+
+    operation :  "",
+    nonce     :  "",
+    timestamp :  "1710033678",
+
+    code_merkle_root :  "",
+    data_merkle_root :  "",
+
+}
+
+
+
+code ; {
+
+   "000" :  "base64 encoding",
+   "001" :  "base64 encoding",
+   "002" :  "base64 encoding",
+
+    ...
+
+
+   "998" :  "base64 encoding",
+   "999" :  "base64 encoding",
+
+}
+
+
+data ; {
+
+   "000" :  "base64 encoding",
+   "001" :  "base64 encoding",
+   "002" :  "base64 encoding",
+
+    ...
+
+
+   "998" :  "base64 encoding",
+   "999" :  "base64 encoding",
+
+}
+```
+
+
+
 
 <br />
 
