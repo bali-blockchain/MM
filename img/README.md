@@ -80,6 +80,26 @@ state variables
 ```
 
 
+
+<br />
+
+
+
+```json:
+All our native assets coins on chains
+
+are
+Guarantee
+
+1 : 1
+
+to
+All Investors, Collectors, Institutions
+```
+
+
+
+
 <br />
 
 
