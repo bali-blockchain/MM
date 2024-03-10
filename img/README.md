@@ -45,6 +45,15 @@ GAS execute Code
 
 
 
+![_account_query_](_for_account_call_.png)
+
+
+
+
+<br />
+
+
+
 ![_Ask_Bid_SCB_](_Offer_Ask_Bid_SCB_.png)
 
 
