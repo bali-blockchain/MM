@@ -46,6 +46,35 @@ GAS execute Code
 
 
 ```json:
+Coin Ticker
+SCB
+
+Coin Name
+Sponsor Claimable Balance
+
+Issuer
+Cash Cows Coins
+
+Ledger
+Instant Liquidity
+
+Moto
+Always Win. Never Lose.
+
+Encrypted Privacy Ledger
+True End-to-End
+
+Pegging Pairing Backing
+1 : 1
+```
+
+
+
+<br />
+
+
+
+```json:
 unlock
 True Decentralized Blockchain
 
