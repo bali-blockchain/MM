@@ -1,4 +1,4 @@
-![_Cash_Cows_Coins_](_Minting_Coining_Money_.png)
+![_Cash_Cows_Coins_](Minting_Coining_Money.png)
 
 
 
