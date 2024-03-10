@@ -69,6 +69,12 @@ Pegging Pairing Backing
 
 Coin Fixed Total Supply
 888.000.000.000 SCD
+
+Swap Pair Coins
+SCB 1 : 1 IDR
+
+IDR
+Indonesian Rupiah
 ```
 
 
