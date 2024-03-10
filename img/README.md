@@ -66,6 +66,9 @@ True End-to-End
 
 Pegging Pairing Backing
 1 : 1
+
+Coin Fixed Total Supply
+888.000.000.000 SCD
 ```
 
 
