@@ -45,7 +45,7 @@ GAS execute Code
 
 
 
-![_account_query_](_for_account_call_.png)
+![_account_query_](_for_account_.png)
 
 
 
