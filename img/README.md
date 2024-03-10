@@ -45,7 +45,7 @@ GAS execute Code
 
 
 
-![_Ask_Bid_SCB_](_Offering_Ask_Bid_SCB_.png)
+![_Ask_Bid_SCB_](_Offer_Ask_Bid_SCB_.png)
 
 
 
