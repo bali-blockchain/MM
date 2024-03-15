@@ -6,6 +6,15 @@
 
 
 
+![_9_IDR_issuere_](_IDR_issuers_.png)
+
+
+
+
+<br />
+
+
+
 ![_MM_Secrets_on_Blockchain_](_MM_encrypted_secrets_.png)
 
 
