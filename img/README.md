@@ -6,6 +6,15 @@
 
 
 
+![_Bima_p2p_network_](_Bima_p2p_network_.png)
+
+
+
+
+<br />
+
+
+
 ![_9_IDR_Anchors_](_IDR_Anchors_.png)
 
 
