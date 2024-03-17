@@ -85,6 +85,20 @@ IDR prices
 
 
 ```json:
+bima_IDR
+
+pairing pegging backing
+with
+Stellar Lumens XLM
+```
+
+
+
+<br />
+
+
+
+```json:
 bima_pin
 
 pubkey -- encrypt
