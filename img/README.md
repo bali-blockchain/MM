@@ -50,7 +50,7 @@ Bima Blockchains Ecosystem
 ```json:
 IDR  Maximum Total  Supply
 IDR    Circulation  Supply
-IDR   24hr Trading  Price
+IDR   24hr Trading  Prices
 ```
 
 
