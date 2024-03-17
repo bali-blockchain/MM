@@ -33,6 +33,47 @@
 
 
 ```json:
+Bima Blockchains Ecosystem
+    explorer
+    seeds
+    peers
+```
+
+
+
+<br />
+
+
+
+```json:
+IDR  Maximum Total  Supply
+IDR    Circulation  Supply
+IDR   24hr Trading  Price
+```
+
+
+
+<br />
+
+
+
+```json:
+IDR prices
+    Open
+    High
+    Low
+    Close
+    
+```
+
+
+
+
+<br />
+
+
+
+```json:
 to
 Activate New Account
 
