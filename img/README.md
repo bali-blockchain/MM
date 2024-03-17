@@ -37,6 +37,8 @@ Bima Blockchains Ecosystem
     explorer
     seeds
     peers
+    storage providers
+    smart contracts
 ```
 
 
