@@ -145,7 +145,8 @@ state {
     G_destination
     B_cipher_chunks
     B_secure_contract
-    B_sponsor_asset
+    B_sponsor_claimant
+    B_self_destruct_9d
 }
 ```
 
