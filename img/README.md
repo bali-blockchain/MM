@@ -37,6 +37,26 @@
 
 
 
+
+<br />
+
+
+
+
+```json:
+your own Genesis
+
+your own ongoing records
+your own ongoing history
+your own ongoing assets
+
+your own Blockspace
+your own Coretime
+your own GAS & FEE
+```
+
+
+
 <br />
 
 
