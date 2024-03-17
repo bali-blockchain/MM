@@ -63,7 +63,6 @@ IDR prices
     High
     Low
     Close
-    
 ```
 
 
