@@ -85,6 +85,48 @@ IDR prices
 
 
 ```json:
+bima_pin
+
+pubkey -- encrypt
+pubkey -- verify
+```
+
+
+
+
+<br />
+
+
+
+```json:
+bima_message
+
+level of trust
+```
+
+
+
+<br />
+
+
+
+```json:
+bima_storage
+
+chunk of 32-bytes
+or
+chunk of 64-hex
+```
+
+
+
+
+
+<br />
+
+
+
+```json:
 to
 Activate New Account
 
