@@ -122,6 +122,39 @@ IDR prices
 
 
 ```json:
+bima_blockspace
+
+
+block_height
+
+header_hash
+
+header {
+    home_domain
+    prev_header_hash
+    state_hash
+    num_chunks
+    store_fee
+    retrieve_fee
+    nonce
+    timestamp
+},
+
+state {
+    G_source
+    G_destination
+    B_cipher_chunks
+}
+```
+
+
+
+
+<br />
+
+
+
+```json:
 bima_IDR
 
 pairing pegging backing
