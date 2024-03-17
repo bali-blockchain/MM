@@ -144,6 +144,8 @@ state {
     G_source
     G_destination
     B_cipher_chunks
+    B_secure_contract
+    B_sponsor_asset
 }
 ```
 
