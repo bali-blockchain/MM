@@ -44,6 +44,65 @@
 
 
 ```json:
+you've The Asset
+
+do
+you've The Liquidity ?
+```
+
+
+
+
+<br />
+
+
+
+
+```json:
+Token is Powerful
+
+in
+Market! Makers High Value Asset
+```
+
+
+
+
+<br />
+
+
+
+
+```json:
+All Excellent Projects
+
+
+Must
+powered Market! Makers
+
+in
+Trade Exchange Assets
+
+or
+Ask Bid Fungible Assets
+
+or
+Swap Quality Liquidity
+
+&
+Decentralized Stored data
+```
+
+
+
+
+
+<br />
+
+
+
+
+```json:
 each Bima Chain is unique
 
 
