@@ -59,6 +59,58 @@ you've The Liquidity ?
 
 
 ```json:
+Eleven (11) Bima id
+
+Trustline
+100.000.000.000.000 IDR
+
+Offer
+Sell IDR, Buy XLM
+
+
+
+issue
+IDR
+
+backed by
+XLM
+
+
+
+Swap Operations
+Smart Contract based
+
+Trade Operations
+Smart Contract based
+
+Auctions Operations
+Smart Contract based
+
+
+
+invoke Smart Contract GAS
+1.000 IDR 
+
+store Cipher Message FEE
+1.000 IDR
+
+
+
+IDR
+
+powered GAS & FEE
+```
+
+
+
+
+
+<br />
+
+
+
+
+```json:
 Token is Powerful
 
 in
