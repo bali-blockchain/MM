@@ -162,7 +162,7 @@ Stored cipher data
 allocated
 maximum for 9 days
 
-rmoved
+removed
 after 9 days
 
 operation
@@ -172,6 +172,9 @@ stored data size
 maximum 1000 cipher chunks
 of
 32-bytes, or 64-hex storage
+
+features
+empowering Blockchain protocol
 
 store FEE
 1.000 IDR
