@@ -158,9 +158,8 @@ Asset {
     balance      amount
 
 
-    holder       address
-    Trustline    limit
-    Market       price
+    circulation  amount
+    number of    holders
 
     Sell         Offer
     Buy          Offer
