@@ -107,7 +107,68 @@ powered GAS & FEE
 
 
 
-![_Alice_State_Machines_](_Alice_State_Machines_.png)
+
+```json:
+Alice
+
+designs of State Machines
+online & offline Messaging
+
+
+data   structures       schema
+data   acquisition      system
+
+New Mint     Block      on blockchain
+preserve   history      minting coining
+
+Smart Contract based    State Machines
+
+
+
+
+store                                      store                                      store
+Genesis Block                              ongoing Block                              ongoing Block
+
+
+
+
+finalized                                  finalized                                  finalized
+a                                          a                                          a
+file                                       file                                       file
+
+
+-r--r--r--    blk000000000.dat             -r--r--r--    blk000000001.dat             -r--r--r--    blk000000002.dat
+                                  
+
+
+
+blockspace {                               blockspace {                               blockspace {
+
+
+    block_height                               block_height                               block_height
+
+
+    header_hash                                header_hash                                header_hash
+
+    header {                                   header {                                   header {
+        version          :  str                    version          :  str                    version          :  str
+        chain_id         :  str                    chain_id         :  str                    chain_id         :  str
+        prev_header_hash :  str                    prev_header_hash :  str                    prev_header_hash :  str
+        state_hash       :  str                    state_hash       :  str                    state_hash       :  str
+        nonce            :  str                    nonce            :  str                    nonce            :  str
+        timestamp        :  int                    timestamp        :  int                    timestamp        :  int
+    },                                         },                                         },
+
+
+    state {                                    state {                                    state {
+        state_machine                              state_machine                              state_machine
+        state_variables                            state_variables                            state_variables
+        state_values                               state_values                               state_values
+    },                                         },                                         },
+
+
+}                                          }                                          }
+```
 
 
 
