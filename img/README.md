@@ -61,7 +61,7 @@ you've The Liquidity ?
 ```json:
 Eleven (11) Bima id
 
-Trustline
+each Bima id Trustline
 100.000.000.000.000 IDR
 
 Offer
