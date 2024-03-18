@@ -95,6 +95,26 @@ Decentralized Stored data
 
 
 
+```json:
+decentralized stored data
+
+1)      Tamper  Resistance
+2)  Censorship  Resistance
+
+3)        data  Ownership
+4)      Chains  Cyber Security
+
+5)   Repudiate  Actions
+6)  end-to-end  Locked Shields
+
+7)     stealth  Operations
+8)      Public  Relay Chains
+
+9)  Efficiency  Growth, Cost, Scale
+```
+
+
+
 
 
 <br />
