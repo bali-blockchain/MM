@@ -109,6 +109,80 @@ powered GAS & FEE
 
 
 ```json:
+Asset {
+
+    symbol       IDR
+
+    issuer       Bima 000
+    supply       Trustline limit
+    balance      amount
+
+    issuer       Bima 111
+    supply       Trustline limit
+    balance      amount
+
+    issuer       Bima 222
+    supply       Trustline limit
+    balance      amount
+
+    issuer       Bima 333
+    supply       Trustline limit
+    balance      amount
+
+    issuer       Bima 555
+    supply       Trustline limit
+    balance      amount
+
+    issuer       Bima 666
+    supply       Trustline limit
+    balance      amount
+
+    issuer       Bima 777
+    supply       Trustline limit
+    balance      amount
+
+    issuer       Bima 888
+    supply       Trustline limit
+    balance      amount
+
+    issuer       Bima 999
+    supply       Trustline limit
+    balance      amount
+
+    issuer       Bima 168
+    supply       Trustline limit
+    balance      amount
+
+    issuer       Bima 838
+    supply       Trustline limit
+    balance      amount
+
+
+    holder       address
+    Trustline    limit
+    Market       price
+
+    Sell         Offer
+    Buy          Offer
+
+    Ask          Offer
+    Bid          Offer
+
+    base Reserve amount
+    GAS          amount
+    FEE          amount
+
+}
+```
+
+
+
+<br />
+
+
+
+
+```json:
 Alice
 
 designs of State Machines
