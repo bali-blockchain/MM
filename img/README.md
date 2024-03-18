@@ -153,6 +153,47 @@ state {
 
 
 
+```json:
+Blockspace
+
+implied
+Stored cipher data
+
+allocated
+maximum for 9 days
+
+rmoved
+after 9 days
+
+operation
+Smart Contract based
+
+stored data size
+maximum 1000 cipher chunks
+of
+32-bytes, or 64-hex storage
+
+store FEE
+1.000 IDR
+
+fetch FEE
+1.000 IDR
+
+Market! Maker
+Stealth Addresses
+Locked Shields
+Repudiable Actions 
+
+Communities
+High Value Asset
+Privacy Preserving
+end-to-end cipher
+```
+
+
+
+
+
 <br />
 
 
