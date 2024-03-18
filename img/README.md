@@ -44,6 +44,51 @@
 
 
 ```json:
+each Bima Chain is unique
+
+
+
+All Bima Chains are Private
+
+implied
+your own Genesis Block
+your own Secure  IDR Liquidity
+your own Private Ledger
+
+aka
+running your own Blockchain
+
+
+
+IDR
+
+is
+Indonesian Rupiah
+
+
+
+Bima IDR
+
+is
+instant Indonesian Rupiah Payments
+
+
+
+issued IDR
+
+is
+backed by Indonesian Rupiah Liquidity
+```
+
+
+
+
+<br />
+
+
+
+
+```json:
 your own Genesis
 
 your own ongoing records
