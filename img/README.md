@@ -41,6 +41,7 @@ e            e
 
 r            r
 
+b b b    h    b b b
 On-Chain VIP-to-VIP
 Safe Secure Secrets
 ```
