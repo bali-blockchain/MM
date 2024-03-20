@@ -2,6 +2,45 @@
 
 
 
+
+<br />
+
+
+
+
+```json:
+Genesis Block {
+
+    "index"
+
+    "hash"
+
+    "header" : {
+        "version"
+        "chain_id"
+        "prev_hash"
+        "state_hash"
+        "subentry_count"
+        "nonce"
+        "timestamp"
+    },
+
+    "state" :  [
+        "IDR issuer"
+        "IDR holders"
+        "IDR auctions"
+        "VIP whitelist" 
+        "Smart Contract Finite State Machine"
+        "Smart Contract state variables Stored data" 
+        "32-bytes size chunks ciper Message" 
+        "Mine New Mint Coins as Claimant"
+    }
+}
+```
+
+
+
+
 <br />
 
 
