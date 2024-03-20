@@ -9,9 +9,27 @@
 
 
 ```json:
-Products deliverables
+Minimum Viable Product
 
-will be on
+deliverables, no risks
+deliver meaningful project
+
+Lean Blockchain Start-up
+with
+clearly defined scope
+
+build
+for
+Blockchain based Message
+
+features
+to
+attract early-adopter
+
+ways
+towards quality solution
+
+on
 Github
 ```
 
