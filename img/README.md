@@ -45,15 +45,6 @@ Genesis Block {
 
 
 
-![ blockspace_schemes_](_blockspace_schemes_designs_.png)
-
-
-
-
-<br />
-
-
-
 ![_Bima_p2p_network_](_Bima_p2p_network_.png)
 
 
