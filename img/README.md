@@ -9,6 +9,51 @@
 
 
 ```json:
+Levels of Obfuscation
+
+      m
+
+z            z
+x            x
+c            c
+a            a
+h            h
+s            s
+e            e
+
+[            [
+                                      
+    {            {
+        k            k
+        n            n
+    },           },
+
+    {            {
+        k            k
+        v            v
+    },           },
+
+    {            {
+        p            p
+    },           },
+
+]            ]
+
+r            r
+
+On-Chain VIP-to-VIP
+Safe Secure Secrets
+```
+
+
+
+
+<br />
+
+
+
+
+```json:
 Minimum Viable Product
 
 deliverables, no risks
