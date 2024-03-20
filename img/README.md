@@ -30,10 +30,10 @@ Genesis Block {
         "IDR holders"
         "IDR auctions"
         "VIP whitelist" 
-        "Smart Contract Finite State Machine"
-        "Smart Contract state variables Stored data" 
-        "32-bytes size chunks ciper Message" 
-        "Mine New Mint Coins as Claimant"
+        "Finite State Machine"
+        "state variables data" 
+        "32-bytes size chunks" 
+        "Mining IDR as Claimant"
     }
 }
 ```
