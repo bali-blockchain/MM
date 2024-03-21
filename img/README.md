@@ -41,7 +41,7 @@ whitelist [
        onion   : "",
        G_key   : public_key,
        encrypting_key : "",
-       signing_key    : ""
+       verifying_key  : ""
     }
 ]
 
