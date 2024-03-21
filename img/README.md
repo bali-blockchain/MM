@@ -1,3 +1,13 @@
+![_The_Artist_](_bali_.jpg)
+
+
+
+
+<br />
+
+
+
+
 ![_Cash_Cows_Coins_](Minting_Coining_Money.png)
 
 
