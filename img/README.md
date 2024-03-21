@@ -17,6 +17,70 @@
 
 
 
+
+```json:
+Launch in Indonesia
+21st March 2024
+
+bootstrap
+    Bima000
+    Bima001
+    Bima002
+
+    ...
+
+    Bima997
+    Bima998
+    Bima999
+
+
+whitelist [
+    {
+       Bima_id : "000",
+       onion   : "",
+       G_key   : public_key,
+       encrypting_key : "",
+       signing_key    : ""
+    }
+]
+
+
+G_key [
+    {
+       public_key
+       asset
+       price
+       trustline
+       amount
+       balance
+    }
+]
+
+
+Sell Offer
+    Sell IDR    Buy XLM
+
+
+Buy Offer
+    Sell XLM    Buy IDR
+
+
+Messaging
+    secret
+    cipher
+
+
+Payments
+    IDR
+```
+
+
+
+<br />
+
+
+
+
 ![_Blockchain_Secure_Messaging_](_Secure_Messaging_Blockchain_.png)
 
 
