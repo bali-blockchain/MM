@@ -19,6 +19,42 @@
 
 
 ```json:
+Bima VIP Chains infra
+
+
+BIMA_000  Relay      Chain
+BIMA_IDR  Indonesian Rupiah
+
+...
+
+BIMA_001  Private Chain
+BIMA_002  Private Chain
+BIMA_003  Private Chain
+
+...
+
+BIMA_998  Private Chain
+BIMA_999  Private Chain
+
+
+Query Transaction
+memo :   Command Control Ops
+
+
+Query Account
+data :   hidden service  id
+home_domain :  Bima_xxx  id
+```
+
+
+
+
+<br />
+
+
+
+
+```json:
 Launch in Indonesia
 21st March 2024
 
