@@ -22,19 +22,25 @@
 Bima VIP Chains infra
 
 
-BIMA_000  Relay      Chain
+
+
+BIMA_000  VIP Relay  Chain
 BIMA_IDR  Indonesian Rupiah
 
-...
 
-BIMA_001  Private Chain
-BIMA_002  Private Chain
-BIMA_003  Private Chain
 
 ...
 
-BIMA_998  Private Chain
-BIMA_999  Private Chain
+BIMA_001  Private VIP Chain
+BIMA_002  Private VIP Chain
+BIMA_003  Private VIP Chain
+
+...
+
+BIMA_998  Private VIP Chain
+BIMA_999  Private VIP Chain
+
+
 
 
 Query Transaction
@@ -42,8 +48,8 @@ memo :   Command Control Ops
 
 
 Query Account
-data :   hidden service  id
-home_domain :  Bima_xxx  id
+data :   hidden service  VIP id
+home_domain :  Bima_xxx  VIP id
 ```
 
 
