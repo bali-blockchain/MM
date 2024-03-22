@@ -8,7 +8,7 @@
 
 
 
-![_bootstrap_from_public_blockchain_](_Public_Blockchain_Bootstrap_.png)
+![_bootstrap_from_public_blockchain_](_Public_Blockkchain_Bootstrap_.png)
 
 
 
