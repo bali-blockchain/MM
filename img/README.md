@@ -22,12 +22,8 @@
 Bima VIP Chains infra
 
 
-
-
 BIMA_000  VIP Relay  Chain
 BIMA_IDR  Indonesian Rupiah
-
-
 
 ...
 
@@ -39,8 +35,6 @@ BIMA_003  Private VIP Chain
 
 BIMA_998  Private VIP Chain
 BIMA_999  Private VIP Chain
-
-
 
 
 Query Transaction
