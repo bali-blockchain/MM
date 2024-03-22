@@ -8,6 +8,16 @@
 
 
 
+![_bootstrap_from_public_blockchain_](_Public_Blockchain_Bootstrap_.png)
+
+
+
+
+<br />
+
+
+
+
 ![_Cash_Cows_Coins_](Minting_Coining_Money.png)
 
 
