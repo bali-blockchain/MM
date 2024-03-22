@@ -54,6 +54,16 @@ home_domain :  Bima_xxx  VIP id
 
 
 
+![_Cash_Cows_Coins_](Minting_Coining_Money.png)
+
+
+
+
+<br />
+
+
+
+
 ```json:
 Launch in Indonesia
 21st March 2024
