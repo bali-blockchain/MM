@@ -2,6 +2,9 @@
 
 
 
+<br />
+
+
 
 ```json:
 limited scarcity
@@ -79,6 +82,16 @@ Send Encrypted Tx   Contract
 
 
 ![_bootstrap_from_public_blockchain_](_Public_Blockkchain_Bootstrap_.png)
+
+
+
+
+<br />
+
+
+
+
+![_Secure_Messaging_Channel_](_secure_channel_.png)
 
 
 
