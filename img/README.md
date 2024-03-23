@@ -4,6 +4,32 @@
 
 
 ```json:
+limited scarcity
+for
+1000 BIMA VIP pin id
+
+Bima 000 to Bima 999
+
+Bima pin pid
+Auction
+Minimal Floor Price
+100.000.000 IDR
+
+
+non BIMA participants
+must
+include Transaction FEE
+include Operations  GAS
+
+when
+Sending Storing Retrieving
+
+to
+Stored Encrypted Contract
+Stored Encrypted Data
+Stored Encrypted Message
+
+
 locked shields Transport
 locked shields Relay
 locked shields Peer Nodes
