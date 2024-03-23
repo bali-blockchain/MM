@@ -3,6 +3,37 @@
 
 
 
+```json:
+Send Encrypted Tx : Transaction
+Send Encrypted Tx   Message
+Send Encrypted Tx   Contract
+
+
+* encrypted Messaging
+
+* Transaction deploy  Contract
+* Transaction invoke  Contract
+* Transaction destroy Contract
+
+* Perfect Secrecy
+
+* disconnect
+  All Centralized endpoint
+
+* decentralized peer nodes
+* number of peer nodes
+
+* lock contract on-chain
+* locked shields secrecy
+
+* per day storage fee
+
+* VIP on Smartphone
+```
+
+
+
+
 <br />
 
 
