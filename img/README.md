@@ -4,6 +4,19 @@
 
 
 ```json:
+locked shields Transport
+locked shields Relay
+locked shields Peer Nodes
+locked shields Blockchain
+locked shields Contract
+locked shields Operations
+
+destroy time bound contract
+contract based messaging
+on-Chain based Contract
+
+Contract base Operations
+
 Send Encrypted Tx : Transaction
 Send Encrypted Tx   Message
 Send Encrypted Tx   Contract
