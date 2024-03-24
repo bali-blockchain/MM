@@ -19,27 +19,27 @@ Ponsel
 
 Invitation
 for
-All Indonesian Participants
+100% Indonesian Participants
 
 
-* Peers Replicating Record-keeping
-* issue Fungible Assets
-* Pair Assets Liquidity Swap
-* Sell & Buy Offer daily events
-* Sponsor & Claimant
-* Storage Providers Ecosystem
-* Store Message in encrypted chunks
-* Global Financial Payment System
-* deploy On-Chain Operations
-* invoke On-Chain Operations
-* Services Businesses on Ponsel
-* 1000 Fungible Coin Issuers
-* 1000 Fungible Coin Issuers pin id
-* encrypted Message Transport Channels
-* censorship resistance endpoint
-* Non-Custodial Account Address Asset
-* Mint New Fungible Coin Incentive
-* High Values Assets Holdings
+Peers Replicate Record-keeping
+issue Fungible Assets
+Pair Assets Liquidity Swap
+Sell & Buy Offer daily events
+Sponsor & Claimant
+Storage Providers Ecosystem
+Store Message encrypted chunks
+Global Payment System
+deploy On-Chain Operations
+invoke On-Chain Operations
+Services Businesses on Ponsel
+1000 Fungible Coin Issuers
+1000 Coin Issuers pin id
+encrypted Message Channels
+censorship resistance endpoint
+Non-Custodial Accounts Addresses
+Mint New Fungible Coin Incentive
+High Values Assets Holdings
 ```
 
 
