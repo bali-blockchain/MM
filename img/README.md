@@ -112,6 +112,71 @@ Send Encrypted Tx   Contract
 
 
 ```json:
+State Machine Replication
+
+
+code/
+runtime
+
+data/
+records
+
+
+#//!  endpoint
+sync_nodes/
+
+bima000.db
+bima001.db
+bima002.db
+
+...
+
+bima997.db
+bima998.db
+bima999.db
+
+
+
+
+#//!  decentralized
+sync_txpool/
+
+bima000.db
+bima001.db
+bima002.db
+
+...
+
+bima997.db
+bima998.db
+bima999.db
+
+
+
+
+#//!  operations history
+sync_chains/
+
+bima000.db
+bima001.db
+bima002.db
+
+...
+
+bima997.db
+bima998.db
+bima999.db
+```
+
+
+
+
+<br />
+
+
+
+
+```json:
 Bima VIP Chains infra
 
 
