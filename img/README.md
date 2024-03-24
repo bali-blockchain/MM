@@ -7,6 +7,33 @@
 
 
 ```json:
+ongoing blockchain projects
+
+
+Blockchain Secure Messaging
+Command & Control System
+mission-critical operations
+
+
+Decentralized Messaging
+conduct sensitive operations 
+
+
+Secure Communications
+Smart Contracts Services
+data sharing
+
+
+Financial Transactions
+```
+
+
+
+<br />
+
+
+
+```json:
 limited scarcity
 for
 1000 BIMA VIP pin id
