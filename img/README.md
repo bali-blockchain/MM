@@ -8,7 +8,17 @@
 
 ```json:
 ongoing blockchain projects
+Smartphones messaging operations
 
+decentralized transfer messages
+tamper-proof recordkeeping
+
+
+data transmission strategies
+transmit secure messages
+
+Keep Messaging Secret
+end-to-end encrypted
 
 Blockchain Secure Messaging
 Command & Control System
