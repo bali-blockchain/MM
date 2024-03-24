@@ -7,6 +7,48 @@
 
 
 ```json:
+Peers of Record-keepers
+Peers of Book-keepers
+
+Peers of Nodes
+State Machines Replicating
+
+running Bali Blockchain
+on
+Ponsel
+
+Invitation
+for
+All Indonesian Participants
+
+
+* Peers Replicating Record-keeping
+* issue Fungible Assets
+* Pair Assets Liquidity Swap
+* Sell & Buy Offer daily events
+* Sponsor & Claimant
+* Storage Providers Ecosystem
+* Store Message in encrypted chunks
+* Global Financial Payment System
+* deploy On-Chain Operations
+* invoke On-Chain Operations
+* Services Businesses on Ponsel
+* 1000 Fungible Coin Issuers
+* 1000 Fungible Coin Issuers pin id
+* encrypted Message Transport Channels
+* censorship resistance endpoint
+* Non-Custodial Account Address Asset
+* Mint New Fungible Coin Incentive
+* High Values Assets Holdings
+```
+
+
+
+<br />
+
+
+
+```json:
 ongoing blockchain projects
 Smartphones messaging operations
 
