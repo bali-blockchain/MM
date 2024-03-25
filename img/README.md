@@ -6,6 +6,56 @@
 
 
 
+```json: 
+Bali Blockchain
+Smart Contracts
+
+On-Chain Operations
+
+
+COIN
+trigger Operation
+
+
+RPC
+server
+
+POST Request
+GET  Response
+
+
+API
+Contract
+
+interface
+&
+parameters
+
+
+JSON
+data structures
+
+
+Code
+smart machine
+
+data
+state variables
+
+
+Storage Providers
+private, strong encrypted
+
+Collection
+of
+bytes size chunks
+```
+
+
+<br />
+
+
+
 ```json:
 Peers of Record-keepers
 Peers of Book-keepers
