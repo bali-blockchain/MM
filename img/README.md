@@ -37,10 +37,10 @@ data structures
 
 
 Code
-smart machine
+state machine Life-Cycle
 
 data
-state variables
+state variables Transition
 
 
 Storage Providers
