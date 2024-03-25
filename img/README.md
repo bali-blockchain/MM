@@ -13,6 +13,30 @@ State Machines Replication
 
 state transition [
 
+* Indonesia
+    State Variables
+
+* Ponsel
+    State Variables
+
+* Messages
+    State Variables
+
+* Contracts
+    State Variables
+
+* Storages
+    State Variables
+
+* BIMA
+    State Variables
+
+* IDR
+    State Variables
+
+* Auctions
+    State Variables
+
 * Accounts
     State Variables
 
