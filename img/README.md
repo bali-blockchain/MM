@@ -6,6 +6,35 @@
 
 
 
+```json:
+Bali Blockchain PONSEL
+State Machines Replication
+
+
+state transition [
+
+* Accounts
+    State Variables
+
+* Transactions
+    State Variables
+
+* Payments
+    State Variables
+
+* Operations
+    State Variables
+
+* History
+    State Variables
+```
+
+
+
+<br />
+
+
+
 ```json: 
 Bali Blockchain
 Smart Contracts
