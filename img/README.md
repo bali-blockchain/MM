@@ -53,6 +53,28 @@ instant XLM payment
 ```json:
 BIMA phone
 
+powered
+State Machines Replication
+
+
+All for One!  One for All.
+phones synced & replicated
+```
+
+
+
+
+<br />
+
+
+
+![_barong_icon_](_barong_.png)
+
+
+
+```json:
+BIMA phone
+
 
 The Peer-to-Peer IDR Phone
 
