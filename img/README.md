@@ -50,7 +50,7 @@ Minimal Balance : 10.000 IDR
 
 
 ```json:
-BIMA sync replicate
+BIMA sync & replicate
 
 
 Block {
