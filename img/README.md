@@ -50,7 +50,14 @@ Minimal Balance : 10.000 IDR
 
 
 ```json:
-BIMA sync & replicate
+BIMA phone
+
+
+sync & replicate Block
+
+in
+P2P Transactions Pool
+
 
 
 Block {
