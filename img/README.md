@@ -14,6 +14,15 @@
 
 
 
+![_Cash_Cows_Coins_](Minting_Coining_Money.png)
+
+
+
+
+<br />
+
+
+
 
 ```json:
 BIMA phone
