@@ -21,7 +21,7 @@
 
 
 ```json:
-electronic Cash
+instant IDR electronic Cash
 
 
 Ticker
