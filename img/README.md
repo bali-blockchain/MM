@@ -6,7 +6,7 @@
 
 
 
-![_bima_icon_](_BIMA_icon_.jpg)
+![_bima_icon_](_BIMA_icon_.png)
 
 
 
