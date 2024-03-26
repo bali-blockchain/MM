@@ -19,23 +19,6 @@ Blockchain Messaging
 
 Block {
 
-}
-
-
-Block {
-
-    block_height
-    header_hash
-
-    block_header {
-
-    },
-
-}
-
-
-Block {
-
     block_height
     header_hash
 
@@ -44,320 +27,29 @@ Block {
     },
 
 
-    peer {
+    peer 
         join & re-join
-    },
-
-}
-
-
-Block {
-
-    block_height
-    header_hash
-
-    block_header {
-
-    },
-
-
-    peer {
-        join & re-join
-    },
-
-
-    coin {
+    
+    coin 
         BIMA native asset
-    },
-
-}
-
-
-Block {
-
-    block_height
-    header_hash
-
-    block_header {
-
-    },
-
-
-    peer {
-        join & re-join
-    },
-
-
-    coin {
-        BIMA native asset
-    },
-
-
-    pool {
+    
+    pool 
         p2p sync Mining Pool
-    },
-
-}
-
-
-Block {
-
-    block_height
-    header_hash
-
-    block_header {
-
-    },
-
-
-    peer {
-        join & re-join
-    },
-
-
-    coin {
-        BIMA native asset
-    },
-
-
-    pool {
-        p2p sync Mining Pool
-    },
-
-
-    book {
+    
+    book 
         Auctions Sell Buy
-    },
-
-}
-
-
-Block {
-
-    block_height
-    header_hash
-
-    block_header {
-
-    },
-
-
-    peer {
-        join & re-join
-    },
-
-
-    coin {
-        BIMA native asset
-    },
-
-
-    pool {
-        p2p sync Mining Pool
-    },
-
-
-    book {
-        Auctions Sell Buy
-    },
-
-
-    mint {
+    
+    Mint 
         instant BIMA Liquidity
-    },
-
-}
-
-
-Block {
-
-    block_height
-    header_hash
-
-    block_header {
-
-    },
-
-
-    peer {
-        join & re-join
-    },
-
-
-    coin {
-        BIMA native asset
-    },
-
-
-    pool {
-        p2p sync Mining Pool
-    },
-
-
-    book {
-        Auctions Sell Buy
-    },
-
-
-    mint {
-        instant BIMA Liquidity
-    },
-
-
-    Code {
-        On-Chain Operations
-    },
-
-}
-
-
-Block {
-
-    block_height
-    header_hash
-
-    block_header {
-
-    },
-
-
-    peer {
-        join & re-join
-    },
-
-
-    coin {
-        BIMA native asset
-    },
-
-
-    pool {
-        p2p sync Mining Pool
-    },
-
-
-    book {
-        Auctions Sell Buy
-    },
-
-
-    mint {
-        instant BIMA Liquidity
-    },
-
-
-    code {
+    
+    Code 
         Operations
-    },
-
-
-    data {
+    
+    data 
         state variables
-    },
 
-}
-
-
-Block {
-
-    block_height
-    header_hash
-
-    block_header {
-
-    },
-
-
-    peer {
-        join & re-join
-    },
-
-
-    coin {
-        BIMA native asset
-    },
-
-
-    pool {
-        p2p sync Mining Pool
-    },
-
-
-    book {
-        Auctions Sell Buy
-    },
-
-
-    mint {
-        instant BIMA Liquidity
-    },
-
-
-    code {
-        Operations
-    },
-
-
-    data {
-        state variables
-    },
-
-
-    stor {
-        bytes size chunks
-    },
-
-}
-
-
-Block {
-
-    block_height
-    header_hash
-
-    block_header {
-
-    },
-
-
-    peer {
-        join & re-join
-    },
-
-
-    coin {
-        BIMA native asset
-    },
-
-
-    pool {
-        p2p sync Mining Pool
-    },
-
-
-    book {
-        Auctions Sell Buy
-    },
-
-
-    Mint {
-        instant BIMA Liquidity
-    },
-
-
-    Code {
-        Operations
-    },
-
-
-    data {
-        state variables
-    },
-
-
-    scan {
+    scan
         search match fetch
-    },
 
 }
 ```
