@@ -29,16 +29,19 @@ sell & buy via auctions
 IDR : Indonesian Rupiah
 
 Transaction FEE economics
-IDR    1 : 1    BIMA pin id
-IDR 1000 : 1000 BIMA pin id
+IDR     1 : 1     BIMA pin id
+IDR 1.000 : 1.000 BIMA pin id
 
 Replicated
 by
-1000 BIMA pin id
+1.000 BIMA pin id
 
 FEE Collection
 share
-1000 BIMA pin id
+1.000 BIMA pin id
+
+Active Account Activation
+Minimal Balance : 10.000 IDR
 ```
 
 
