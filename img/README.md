@@ -7,6 +7,368 @@
 
 
 ```json:
+BIMA ponsel
+Blockchain schema
+
+Ponsel Indonesia
+running
+
+BIMA Secure Encrypted
+Blockchain Messaging
+
+
+Block {
+
+}
+
+
+Block {
+
+    block_height
+    header_hash
+
+    block_header {
+
+    },
+
+}
+
+
+Block {
+
+    block_height
+    header_hash
+
+    block_header {
+
+    },
+
+
+    peer {
+        join & re-join
+    },
+
+}
+
+
+Block {
+
+    block_height
+    header_hash
+
+    block_header {
+
+    },
+
+
+    peer {
+        join & re-join
+    },
+
+
+    coin {
+        BIMA native asset
+    },
+
+}
+
+
+Block {
+
+    block_height
+    header_hash
+
+    block_header {
+
+    },
+
+
+    peer {
+        join & re-join
+    },
+
+
+    coin {
+        BIMA native asset
+    },
+
+
+    pool {
+        p2p sync Mining Pool
+    },
+
+}
+
+
+Block {
+
+    block_height
+    header_hash
+
+    block_header {
+
+    },
+
+
+    peer {
+        join & re-join
+    },
+
+
+    coin {
+        BIMA native asset
+    },
+
+
+    pool {
+        p2p sync Mining Pool
+    },
+
+
+    book {
+        Auctions Sell Buy
+    },
+
+}
+
+
+Block {
+
+    block_height
+    header_hash
+
+    block_header {
+
+    },
+
+
+    peer {
+        join & re-join
+    },
+
+
+    coin {
+        BIMA native asset
+    },
+
+
+    pool {
+        p2p sync Mining Pool
+    },
+
+
+    book {
+        Auctions Sell Buy
+    },
+
+
+    mint {
+        instant BIMA Liquidity
+    },
+
+}
+
+
+Block {
+
+    block_height
+    header_hash
+
+    block_header {
+
+    },
+
+
+    peer {
+        join & re-join
+    },
+
+
+    coin {
+        BIMA native asset
+    },
+
+
+    pool {
+        p2p sync Mining Pool
+    },
+
+
+    book {
+        Auctions Sell Buy
+    },
+
+
+    mint {
+        instant BIMA Liquidity
+    },
+
+
+    Code {
+        On-Chain Operations
+    },
+
+}
+
+
+Block {
+
+    block_height
+    header_hash
+
+    block_header {
+
+    },
+
+
+    peer {
+        join & re-join
+    },
+
+
+    coin {
+        BIMA native asset
+    },
+
+
+    pool {
+        p2p sync Mining Pool
+    },
+
+
+    book {
+        Auctions Sell Buy
+    },
+
+
+    mint {
+        instant BIMA Liquidity
+    },
+
+
+    code {
+        Operations
+    },
+
+
+    data {
+        state variables
+    },
+
+}
+
+
+Block {
+
+    block_height
+    header_hash
+
+    block_header {
+
+    },
+
+
+    peer {
+        join & re-join
+    },
+
+
+    coin {
+        BIMA native asset
+    },
+
+
+    pool {
+        p2p sync Mining Pool
+    },
+
+
+    book {
+        Auctions Sell Buy
+    },
+
+
+    mint {
+        instant BIMA Liquidity
+    },
+
+
+    code {
+        Operations
+    },
+
+
+    data {
+        state variables
+    },
+
+
+    stor {
+        bytes size chunks
+    },
+
+}
+
+
+Block {
+
+    block_height
+    header_hash
+
+    block_header {
+
+    },
+
+
+    peer {
+        join & re-join
+    },
+
+
+    coin {
+        BIMA native asset
+    },
+
+
+    pool {
+        p2p sync Mining Pool
+    },
+
+
+    book {
+        Auctions Sell Buy
+    },
+
+
+    Mint {
+        instant BIMA Liquidity
+    },
+
+
+    Code {
+        Operations
+    },
+
+
+    data {
+        state variables
+    },
+
+
+    scan {
+        search match fetch
+    },
+
+}
+```
+
+
+
+<br />
+
+
+
+```json:
 Bali Blockchain PONSEL
 State Machines Replication
 
