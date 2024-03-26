@@ -213,14 +213,11 @@ State Machines Replication
 bootstrap
 state machine life cycle
 
-
 explorer
 state machine life cycle
 
-
 peer
 state machines life cycle
-
 
 p2p mining pools
 state machines life cycle
@@ -241,10 +238,8 @@ state machines life cycle
 deploy Contract
 state machines life cycle
 
-
 invoke Contract
 state machines life cycle
-
 
 storage providers
 state machines life cycle
