@@ -195,14 +195,6 @@ Transactions Mining Pool
 
 
 
-![_Cash_Cows_Coins_](Minting_Coining_Money.png)
-
-
-
-<br />
-
-
-
 ![_Blockchain_Secure_Messaging_](_Secure_Messaging_Blockchain_.png)
 
 
@@ -316,6 +308,14 @@ Transactions Mining Pool
 
 
 ![_MM_chunk_fee_](_MM_data_chunk_.png)
+
+
+
+<br />
+
+
+
+![_Cash_Cows_Coins_](Minting_Coining_Money.png)
 
 
 
