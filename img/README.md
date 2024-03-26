@@ -177,14 +177,6 @@ Transactions Mining Pool
 
 
 
-![_9_IDR_Anchors_](_IDR_Anchors_.png)
-
-
-
-<br />
-
-
-
 ![_MM_Secrets_on_Blockchain_](_MM_encrypted_secrets_.png)
 
 
