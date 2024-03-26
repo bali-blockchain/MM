@@ -201,6 +201,61 @@ Transactions Mining Pool
 
 
 
+![_barong_icon_](_barong_.png)
+
+
+
+```json:
+BIMA phones
+State Machines Replication
+
+
+bootstrap
+state machine life cycle
+
+
+explorer
+state machine life cycle
+
+
+peer
+state machines life cycle
+
+
+p2p mining pools
+state machines life cycle
+
+
+sell IDR
+&
+buy  XLM
+state machines life cycle
+
+
+sell XLM
+&
+buy  IDR
+state machines life cycle
+
+
+deploy Contract
+state machines life cycle
+
+
+invoke Contract
+state machines life cycle
+
+
+storage providers
+state machines life cycle
+```
+
+
+
+<br />
+
+
+
 ![_Cash_Cows_Coins_](Minting_Coining_Money.png)
 
 
