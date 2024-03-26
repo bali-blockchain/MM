@@ -28,7 +28,7 @@ Ticker
 IDR
 
 Maximum Total Supply
-99.000.000.000 IDR
+888.000.000.000 IDR
 
 Sell Offer & Buy Offer
 24hr On-Chain Auctions
