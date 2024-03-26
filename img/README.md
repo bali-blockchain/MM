@@ -10,17 +10,7 @@
 
 
 
-<br />
-
-
-
 ![_Cash_Cows_Coins_](Minting_Coining_Money.png)
-
-
-
-
-<br />
-
 
 
 
@@ -41,6 +31,7 @@ sell & buy via auctions
 IDR : Indonesian Rupiah
 
 Transaction FEE economics
+IDR    1 : 1    BIMA pin id
 IDR 1000 : 1000 BIMA pin id
 
 Replicated
