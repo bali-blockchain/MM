@@ -13,35 +13,35 @@ BIMA Indonesia ponsel
 Block {
 
     block_height
-    header_hash
+    block_header_hash
     block_header
 
 
-    peer 
+    Peer 
         join & re-join
     
-    coin 
+    Coin 
         BIMA native asset
     
-    pool 
+    Pool 
         p2p sync Mining Pool
     
-    book 
-        Auctions Sell Buy
+    Book 
+        auctions Sell Buy
     
     Mint 
         instant BIMA Liquidity
     
     Code 
-        Operations
+        operations
     
-    data 
+    Data 
         state variables
 
-    stor
+    Stor
         encrypted secrets
 
-    scan
+    Scan
         search match fetch
 
 }
