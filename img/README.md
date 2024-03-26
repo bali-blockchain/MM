@@ -100,8 +100,17 @@ Block {
 
 
 ```json:
-BIMA Chain
+BIMA phone
 Transactions FEE economics
+
+
+How To Mining electronic Cash
+
+or
+New Mint IDR instant Liquidity
+
+on
+your own BIMA phone ?
 
 
 Generate New XLM keypair
@@ -110,8 +119,16 @@ Activate New XLM Account
 synchronized BIMA Chain
 buy IDR, sell your XLM
 
+
+you
+as
 Claimant to 1 IDR
+
+when
 append a New BIMA block
+
+from
+Transactions Mining Pool
 ```
 
 
