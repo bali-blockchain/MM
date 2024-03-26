@@ -12,6 +12,14 @@
 
 
 
+<br />
+
+
+
+![_barong_icon_](_barong_.png)
+
+
+
 ```json:
 BIMA phone
 
@@ -52,6 +60,15 @@ share
 Active Account Activation
 Minimal Balance : 10.000 IDR
 ```
+
+
+
+<br />
+
+
+
+![_barong_icon_](_barong_.png)
+
 
 
 <br />
@@ -109,6 +126,7 @@ Block {
 
 
 <br />
+
 
 
 ![_barong_icon_](_barong_.png)
