@@ -21,6 +21,36 @@
 
 
 ```json:
+electronic Cash
+
+
+Ticker
+IDR
+
+Maximum Total Supply
+99.000.000.000 IDR
+
+Sell Offer & Buy Offer
+24hr On-Chain Auctions
+
+New Mint IDR eCash
+peer-to-peer transactions pool
+
+instant IDR liquidity
+instant XLM payment
+```
+
+
+
+<br />
+
+
+
+![_barong_icon_](_barong_.png)
+
+
+
+```json:
 BIMA phone
 
 
