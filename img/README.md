@@ -7,24 +7,16 @@
 
 
 ```json:
+Indonesia
+on
 BIMA ponsel
-Blockchain schema
-
-Ponsel Indonesia
-running
-
-BIMA Secure Encrypted
-Blockchain Messaging
 
 
 Block {
 
     block_height
     header_hash
-
-    block_header {
-
-    },
+    block_header
 
 
     peer 
