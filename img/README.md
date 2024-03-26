@@ -50,7 +50,7 @@ Minimal Balance : 10.000 IDR
 
 
 ```json:
-BIMA Indonesia ponsel
+BIMA sync replicate
 
 
 Block {
