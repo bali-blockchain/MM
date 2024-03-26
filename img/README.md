@@ -91,6 +91,31 @@ Block {
 ```
 
 
+
+<br />
+
+
+![_barong_icon_](_barong_.png)
+
+
+
+```json:
+BIMA Chain
+Transactions FEE economics
+
+
+Generate New XLM keypair
+Activate New XLM Account
+
+synchronized BIMA Chain
+buy IDR, sell your XLM
+
+Claimant to 1 IDR
+append a New BIMA block
+```
+
+
+
 <br />
 
 
