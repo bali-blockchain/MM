@@ -315,7 +315,7 @@ Transactions Mining Pool
 
 
 
-![_Cash_Cows_Coins_](Minting_Coining_Money.png)
+![_MM_recipient_privacy_](_MM_data_privacy_.png)
 
 
 
@@ -323,7 +323,7 @@ Transactions Mining Pool
 
 
 
-![_MM_recipient_privacy_](_MM_data_privacy_.png)
+![_Cash_Cows_Coins_](Minting_Coining_Money.png)
 
 
 
