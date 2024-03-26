@@ -7,9 +7,7 @@
 
 
 ```json:
-Indonesia
-on
-BIMA ponsel
+BIMA Indonesia ponsel
 
 
 Block {
@@ -39,6 +37,9 @@ Block {
     
     data 
         state variables
+
+    stor
+        encrypted secrets
 
     scan
         search match fetch
