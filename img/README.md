@@ -171,6 +171,14 @@ Transactions Mining Pool
 
 
 
+![_Cash_Cows_Coins_](Minting_Coining_Money.png)
+
+
+
+<br />
+
+
+
 ![_bootstrap_from_public_blockchain_](_Public_Blockkchain_Bootstrap_.png)
 
 
