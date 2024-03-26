@@ -30,6 +30,17 @@ Wallet
 native asset
 sell & buy via auctions
 IDR : Indonesian Rupiah
+
+Transaction FEE economics
+IDR 1000 : 1000 BIMA pin id
+
+Replicated
+by
+1000 BIMA pin id
+
+FEE Collection
+share
+1000 BIMA pin id
 ```
 
 
