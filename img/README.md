@@ -16,6 +16,15 @@
 BIMA phone
 
 
+The Peer-to-Peer IDR Phone
+
+with
+Mining Pool
+
+New Mint
+instant IDR Liquidity
+
+
 public
 synchronized by All Peers
 Block
