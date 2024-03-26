@@ -7,6 +7,30 @@
 
 
 ```json:
+BIMA phone
+
+
+public
+synchronized by All Peers
+Block
+
+private
+isolated hidden protected
+Wallet
+
+native asset
+sell & buy via auctions
+IDR : Indonesian Rupiah
+```
+
+
+
+
+<br />
+
+
+
+```json:
 BIMA Indonesia ponsel
 
 
