@@ -40,6 +40,47 @@ instant XLM payment
 
 
 
+![_barong_icon_](_barong_.png)
+
+
+
+```json:
+ synced     &   replicated
+
+
+Accounts    :   Contacts
+TxPools     :   Mining Pools
+Genesis     :   Chains
+```
+
+
+
+
+![_barong_icon_](_barong_.png)
+
+
+
+```json:
+   economics & lifestyle
+
+
+         NFT : brand, royalty, awards
+   Liquidity : Pair Tokens Swap
+         DAO : IDR Majorty Governs
+
+
+      Mining : Rp      1.000
+
+     Coining : Rp      2.00
+Max New Mint : Rp  1.000.000
+
+     Minting : Rp     20.000
+Max New Mint : Rp 10.000.000
+```
+
+
+
+
 <br />
 
 
