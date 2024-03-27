@@ -21,30 +21,20 @@
 
 
 ```json:
-instant IDR electronic Cash
+instant IDR liquidity
 
 
 Ticker
 IDR
 
-
-18 BIMA pin id
-IDR Anchors
-
-each
-has
-
-Maximum Total Supply
-888.000.000.000 IDR
-
-
 Sell Offer & Buy Offer
 24hr On-Chain Auctions
 
 New Mint IDR eCash
-peer-to-peer transactions pool
+p2p transactions pool
 
 instant IDR liquidity
+with
 instant XLM payment
 ```
 
@@ -160,9 +150,6 @@ by
 FEE Collection
 share
 1.000 BIMA pin id
-
-Active Account Activation
-Minimal Balance : 10.000 IDR
 ```
 
 
