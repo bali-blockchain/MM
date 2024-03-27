@@ -51,6 +51,39 @@ instant XLM payment
 
 
 ```json:
+BIMA pin id
+All for One! One for All.
+
+
+.onion hidden service id
+Transactions Mining Pool
+
+
+XLM  public key
+send receive Money!
+
+RSA  public key
+locked encrypted message
+
+ECC  public key
+digital fingerprint signature
+
+
+Locked Shields Encrypted Message
+cipher bytes chunks, signature
+```
+
+
+
+<br />
+
+
+
+![_barong_icon_](_barong_.png)
+
+
+
+```json:
 BIMA phone
 
 powered
