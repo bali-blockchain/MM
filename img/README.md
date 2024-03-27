@@ -51,6 +51,8 @@ instant XLM payment
 Accounts    :   Contacts
 TxPools     :   Mining Pools
 Genesis     :   Chains
+
+
 ```
 
 
@@ -71,11 +73,13 @@ Genesis     :   Chains
 
       Mining : Rp      1.000
 
-     Coining : Rp      2.00
+     Coining : Rp      2.000
 Max New Mint : Rp  1.000.000
 
      Minting : Rp     20.000
 Max New Mint : Rp 10.000.000
+
+
 ```
 
 
