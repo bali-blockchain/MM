@@ -27,8 +27,16 @@ instant IDR electronic Cash
 Ticker
 IDR
 
+
+18 BIMA pin id
+IDR Anchors
+
+each
+has
+
 Maximum Total Supply
 888.000.000.000 IDR
+
 
 Sell Offer & Buy Offer
 24hr On-Chain Auctions
