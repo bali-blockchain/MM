@@ -59,6 +59,7 @@ All for One! One for All.
 Transactions Mining Pool
 
 
+
 XLM  public key
 send receive Money!
 
@@ -69,8 +70,18 @@ ECC  public key
 digital fingerprint signature
 
 
+
 Locked Shields Encrypted Message
 cipher bytes chunks, signature
+
+
+maximum 64 characters x 1000
+for
+allocating cipher data storage
+
+
+Transaction Mining Fee
+1.000 IDR
 ```
 
 
