@@ -51,8 +51,6 @@ instant XLM payment
 Accounts    :   Contacts
 TxPools     :   Mining Pools
 Genesis     :   Chains
-
-
 ```
 
 
@@ -71,6 +69,7 @@ Genesis     :   Chains
          DAO : IDR Valuation
 
         Mint : 1.000 BIMA NFT
+
  Coin Supply : Rp 333.000.000
       Mining : Rp       1.000
 
