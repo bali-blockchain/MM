@@ -405,14 +405,6 @@ state machines life cycle
 
 
 
-![_Stellar_Accepted_Here_](_stellar_accepted_here_.png)
-
-
-
-<br />
-
-
-
 ![_MM_connect_to_seed_](_MM_con_seed_.png)
 
 
