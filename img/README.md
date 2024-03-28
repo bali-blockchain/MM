@@ -66,18 +66,18 @@ Genesis     :   Chains
    economics & lifestyle
 
 
-         NFT : brand, royalty, awards
+         NFT : brand, royalty
    Liquidity : Pair Tokens Swap
          DAO : IDR Majorty Governs
 
+ Coin Supply : Rp 333.000.000
+      Mining : Rp       1.000
 
-      Mining : Rp      1.000
+     Coining : Rp       2.000
+Max New Mint : Rp   1.000.000
 
-     Coining : Rp      2.000
-Max New Mint : Rp  1.000.000
-
-     Minting : Rp     20.000
-Max New Mint : Rp 10.000.000
+     Minting : Rp      20.000
+Max New Mint : Rp  10.000.000
 
 
 ```
