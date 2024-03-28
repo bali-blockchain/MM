@@ -68,7 +68,7 @@ Genesis     :   Chains
 
          NFT : brand, royalty
    Liquidity : Pair Tokens Swap
-         DAO : IDR Majorty Governs
+         DAO : IDR Valuation
 
  Coin Supply : Rp 333.000.000
       Mining : Rp       1.000
