@@ -70,6 +70,7 @@ Genesis     :   Chains
    Liquidity : Pair Tokens Swap
          DAO : IDR Valuation
 
+        Mint : 1.000 BIMA NFT
  Coin Supply : Rp 333.000.000
       Mining : Rp       1.000
 
