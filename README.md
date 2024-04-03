@@ -80,6 +80,15 @@ G_signer     public
 
 
 
+![_barong_](./img/_barong_.png)
+
+
+
+
+<br />
+
+
+
 ```json:
 each Node/ Ponsel/ Phone/
 
@@ -97,6 +106,15 @@ Chunk  1 : 10 IDR Maxumum fee
 allocate
 maximum store 64 characters
 ```
+
+
+
+<br />
+
+
+
+![_barong_](./img/_barong_.png)
+
 
 
 
@@ -151,6 +169,15 @@ mine
 to
 store Cipher Secret
 ```
+
+
+
+<br />
+
+
+
+![_barong_](./img/_barong_.png)
+
 
 
 
