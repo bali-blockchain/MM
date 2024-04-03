@@ -6,12 +6,28 @@
 
 
 
+![_barong_](./img/_barong_.png)
+
+
+
+<br />
+
+
+
 ```json:
 Offer
 Pair Quality Liquidity Swap
 
 Buy XLM Asset, Sell IDR Asset 
 ```
+
+
+
+<br />
+
+
+
+![_barong_](./img/_barong_.png)
 
 
 
