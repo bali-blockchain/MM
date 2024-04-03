@@ -189,25 +189,27 @@ data ->  State Variable
 BIMA
 Storage Providers Ecosystem
 
-Offer
-
-to
 sync
 pending store Cipher Secret
 
-to
-All BIMA pin id
+with
+All Active Reachable BIMA id
 
-propagate
+inventory
+Request their Mining Pool assets
+
+GET
+Cipher Secret from the BIMA id
+
+allocate
 to
-their own Mining Pool
+your own Cipher Secret Mining Pool
 
 verify
-Offer for the Storage Payment
+Offer Payment for Storage Provider
 
-mine
-to
-store Cipher Secret
+append
+Cipher Secret to your Storage
 ```
 
 
