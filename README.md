@@ -23,6 +23,7 @@ limited scarcity
 
 Auction
 Minimal Floor Price
+
 Bima pid id  1 : 500.000 IDR
 ```
 
