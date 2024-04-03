@@ -95,7 +95,7 @@ G_signer     public
 
 
 ```json:
-Secret
+High Assets Values Secret
 {
     index
     hash
@@ -114,7 +114,7 @@ Secret
         subentry_count
     },
 
-    value
+    values
     {
         collection
         of
