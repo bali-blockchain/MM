@@ -102,6 +102,15 @@ data ->  State Variable
 
 
 
+![_storage_provider_ecosystem_](./img/_Secure_Messaging_Blockchain_.png)
+
+
+
+<br />
+
+
+
+
 <br />
 
 
