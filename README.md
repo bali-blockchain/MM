@@ -17,7 +17,7 @@ Accept IDR : Indonesian Rupiah
 
 
 ```json:
-each Node
+each Node/ Ponsel/ Phone/
 offers
 Auctions to Store Message
 
