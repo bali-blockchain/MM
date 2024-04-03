@@ -218,12 +218,12 @@ Offer Payment for Storage Provider
 
 
 sender
-Sponsor Minimal  1.000 IDR
+Sponsor Minimum  1.000 IDR
 per
 Storage Provider
 
 sender
-Sponsor Minimal 10.000 IDR
+Sponsor Maximum 10.000 IDR
 per
 Storage Provider
 
