@@ -65,7 +65,7 @@ each Node/ Ponsel/ Phone/
 
 
 offers
-Auctions Store Public Message
+Auctions store cipher secret
 
 
 Chunk  1 :  1 IDR Minimum fee
@@ -112,6 +112,17 @@ POST_public_message
 
 
 ```json:
+publicly
+store cipher secret
+
+with
+BIMA Storage Providers
+
+storage fee based Auctions
+by
+each BIMA Storage Provider
+
+
 High Assets Values Secret
 {
     index
