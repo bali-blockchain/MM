@@ -121,9 +121,11 @@ offers
 Auctions store cipher secret
 
 
+price
 Chunk  1 :  1 IDR Minimum fee
-to
-Chunk  1 : 10 IDR Maxumum fee
+
+price
+Chunk  1 : 10 IDR Maximum fee
 
 
 1 chunk subentry
