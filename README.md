@@ -43,6 +43,14 @@ Buy XLM Asset, Sell IDR Asset
 
 
 
+![_barong_](./img/_barong_.png)
+
+
+
+<br />
+
+
+
 ```json:
 limited scarcity
 1000 BIMA pin id
