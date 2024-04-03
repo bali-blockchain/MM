@@ -18,8 +18,10 @@ Accept IDR : Indonesian Rupiah
 
 ```json:
 each Node/ Ponsel/ Phone/
+
+
 offers
-Auctions to Store Message
+Auctions Store Public Message
 
 
 Chunk  1 :  1 IDR Minimum fee
