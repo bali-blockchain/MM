@@ -99,23 +99,28 @@ data ->  State Variable
 
 
 ```json:
+BIMA
+Storage Providers Ecosystem
+
 Offer
 
 to
 sync
-Cipher Secret
+pending store Cipher Secret
 
-for
-each BIMA pin id
+to
+All BIMA pin id
 
 propagate
 to
-Mining Pool
+their own Mining Pool
 
 verify
-Offer Storage Payment
-for
-Cipher Secret
+Offer for the Storage Payment
+
+mine
+to
+store Cipher Secret
 ```
 
 
