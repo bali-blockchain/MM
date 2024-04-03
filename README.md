@@ -99,10 +99,23 @@ data ->  State Variable
 
 
 ```json:
-P2P Message Mining Pool
+Offer
 
+to
+sync
+Cipher Secret
 
-POST_public_message
+for
+each BIMA pin id
+
+propagate
+to
+Mining Pool
+
+verify
+Offer Storage Payment
+for
+Cipher Secret
 ```
 
 
