@@ -191,10 +191,16 @@ data ->  State Variable
 BIMA
 Storage Providers Ecosystem
 
-sync
-pending store Cipher Secret
 
-with
+add Cipher Secret
+to your
+own Cipher Secret Mining Pool
+
+trigger synchronization
+all pending stored Cipher Secret
+
+broadcast
+to
 All Active Reachable BIMA id
 
 inventory
