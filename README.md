@@ -21,7 +21,7 @@ limited scarcity
 1000 BIMA pin id
 
 
-Auction
+Auctions
 Minimal Floor Price
 
 Bima pid id  1 : 888.000 IDR
