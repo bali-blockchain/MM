@@ -44,6 +44,15 @@ BIMA pid id  1 : 888.000 IDR
 
 
 
+![_barong_](./img/_barong_.png)
+
+
+
+
+<br />
+
+
+
 ```json:
 bootstrap
 with
