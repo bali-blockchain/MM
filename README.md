@@ -7,5 +7,26 @@
 
 
 ```json:
-Accept IDR Payment
+Accept IDR : Indonesian Rupiah
+```
+
+
+
+<br />
+
+
+
+```json:
+each Node
+offers
+Auctions to Store Message
+
+
+Chunk  1 :  1 Minimum IDR
+to
+Chunk  1 : 10 Maximum IDR
+
+
+1 chunk subentry
+maximum store 64 characters
 ```
