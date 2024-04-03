@@ -287,6 +287,41 @@ High Assets Values Secret
 
 
 
+![_barong_](./img/_barong_.png)
+
+
+
+<br />
+
+
+
+```json:
+BOLATANGKAS
+MM : Mickey Mouse
+
+
+2.000 IDR
+per
+Contract id   1 : 1  MM Game Session
+Minimal Buy  50      New Mint MM Contract id
+
+
+20.000 IDR
+per
+Contract id   1 : 1  MM Game Session
+Minimal Buy  50      New Mint MM Contract id
+```
+
+
+
+![_barong_](./img/_barong_.png)
+
+
+
+<br />
+
+
+
 ![_Mickey_Mouse_](./img/_MM_Jr_.png)
 
 
