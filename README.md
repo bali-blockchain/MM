@@ -7,7 +7,10 @@
 
 
 ```json:
-Accept IDR : Indonesian Rupiah
+Offer
+Pair Quality Liquidity Swap
+
+Buy XLM Asset, Sell IDR Asset 
 ```
 
 
