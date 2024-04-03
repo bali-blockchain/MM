@@ -208,8 +208,27 @@ your own Cipher Secret Mining Pool
 verify
 Offer Payment for Storage Provider
 
+
+sender
+Sponsor Minimal  1.000 IDR
+per
+Storage Provider
+
+sender
+Sponsor Minimal 10.000 IDR
+per
+Storage Provider
+
+
 append
 Cipher Secret to your Storage
+
+await Recipient
+invoke stored Contract id
+
+Claimant
+of Contract id storage fee
+
 ```
 
 
