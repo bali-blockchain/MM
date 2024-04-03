@@ -192,7 +192,7 @@ High Assets Values Secret
 
 
 
-![_Cash_Cows_Cash_](./img/Minting_Coining_Money.png.)
+![_Cash_Cows_Cash_](./img/Minting_Coining_Money.png)
 
 
 
