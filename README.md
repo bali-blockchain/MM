@@ -16,6 +16,14 @@ Accept IDR : Indonesian Rupiah
 
 
 
+![_funded_active_account_](./img/_Public_Blockkchain_Bootstrap_.png)
+
+
+
+<br />
+
+
+
 ```json:
 limited scarcity
 1000 BIMA pin id
