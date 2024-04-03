@@ -324,7 +324,7 @@ Table
 
 per
 Contract id   1 : 1  MM Game Session
-Minimal Buy  10      New Mint MM Contract id
+Minimal Buy  50      New Mint MM Contract id
 ```
 
 
