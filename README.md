@@ -17,6 +17,49 @@ Accept IDR : Indonesian Rupiah
 
 
 ```json:
+limited scarcity
+1000 BIMA pin id
+
+
+Auction
+Minimal Floor Price
+Bima pid id  1 : 500.000 IDR
+```
+
+
+
+<br />
+
+
+
+```json:
+bootstrap
+with
+Funded BIMA Pin id
+
+
+G_bima       public
+
+S_stellar    secret
+G_stellar    public
+
+S_router     secret
+G_router     public
+
+S_locker     secret
+G_locker     public
+
+S_signer     secret
+G_signer     public
+```
+
+
+
+<br />
+
+
+
+```json:
 each Node/ Ponsel/ Phone/
 
 
@@ -59,33 +102,6 @@ P2P Message Mining Pool
 
 
 POST_public_message
-```
-
-
-
-<br />
-
-
-
-```json:
-bootstrap
-to
-BIMA Pin id
-
-
-G_bima       public
-
-S_stellar    secret
-G_stellar    public
-
-S_router     secret
-G_router     public
-
-S_locker     secret
-G_locker     public
-
-S_signer     secret
-G_signer     public
 ```
 
 
