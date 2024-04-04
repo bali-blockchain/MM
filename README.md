@@ -326,7 +326,7 @@ High Assets Values Secret
 
 ```json:
 BOLATANGKAS
-New Mint  MM : Mickey Mouse  Contract id
+New Mint MM Contract id
 
 
 
@@ -335,7 +335,7 @@ Table
 
 per
 Contract id   1 : 1  MM Game Session
-Minimal Buy  50      New Mint MM Contract id
+Minimal Buy  50      Contract id
 
 
 
@@ -344,7 +344,7 @@ Table
 
 per
 Contract id   1 : 1  MM Game Session
-Minimal Buy  50      New Mint MM Contract id
+Minimal Buy  50      Contract id
 
 
 
@@ -353,7 +353,7 @@ Table
 
 per
 Contract id   1 : 1  MM Game Session
-Minimal Buy  50      New Mint MM Contract id
+Minimal Buy  50      Contract id
 ```
 
 
