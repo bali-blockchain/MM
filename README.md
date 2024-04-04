@@ -41,7 +41,7 @@
 
 8)  Quickstart Guide
    "How To Explore"
-   "BIMA Cash Cows Cash Money! ?"
+   "BIMA Cash Cows Coins / Money! ?"
 
 9)  Quickstart Guide
    "How To Buy & Liquidate"
