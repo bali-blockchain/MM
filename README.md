@@ -41,7 +41,7 @@
 
 8)  Quickstart Guide
    "How To Explore"
-   "BIMA Ecosystem ?"
+   "BIMA Cash Cows Cash Money! ?"
 
 9)  Quickstart Guide
    "How To Buy & Liquidate"
