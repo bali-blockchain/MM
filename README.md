@@ -207,7 +207,7 @@ maximum store 64 characters
 
 
 ```json:
-Message Schema
+Cipher Secret Schema
 
 
 code ->  State Machine
