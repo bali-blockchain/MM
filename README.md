@@ -14,7 +14,7 @@
 
 
 
-![_Oracle_OHLC_](./img/_MM_OHLC_.png)
+![_Oracle_OHLC_](./img/_MM_OHCL_.png)
 
 
 
