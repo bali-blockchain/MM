@@ -111,9 +111,13 @@ limited scarcity
 
 
 Auctions
-Minimal Floor Price
+start
 
-BIMA pid id  1 : 888.000 IDR
+with
+Minimal Bidding Floor Price
+
+offer
+BIMA pin id  1 : 888.000 IDR
 ```
 
 
