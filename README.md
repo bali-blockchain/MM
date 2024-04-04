@@ -14,6 +14,22 @@
 
 
 
+![_Oracle_OHLC_](./img/_MM_OHLC_.png)
+
+
+
+<br />
+
+
+
+![_barong_](./img/_barong_.png)
+
+
+
+<br />
+
+
+
 ```json:
 
 
