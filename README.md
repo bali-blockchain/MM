@@ -255,15 +255,20 @@ of Contract id storage fee
 
 
 ```json:
-publicly
-store cipher secret
+deployed to public Storage Providers
+your Cipher Secret
 
-with
-BIMA Storage Providers
+synchronize
+by
+All BIMA Storage Providers
 
-storage fee based Auctions
+
+storage fee based on Auctions
+
+Offer
 by
 each BIMA Storage Provider
+
 
 
 High Assets Values Secret
