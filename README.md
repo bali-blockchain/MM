@@ -258,9 +258,14 @@ price
 Chunk  1 : 10 IDR Maximum fee
 
 
-1 chunk subentry
+
+1 chunk subentry count
+
 allocate
-maximum store 64 characters
+maximum store data
+
+of
+64 characters
 ```
 
 
