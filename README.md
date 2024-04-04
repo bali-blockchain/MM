@@ -332,6 +332,7 @@ New Mint MM Contract id
 
 Table
   2.000 IDR          COIN-IN
+                  1  Contract id
 
 per
 Contract id   1 : 1  MM Session
@@ -341,6 +342,7 @@ Minimal Buy  50      Contract id
 
 Table
  20.000 IDR          COIN-IN
+                  1  Contract id
 
 per
 Contract id   1 : 1  MM Session
@@ -350,6 +352,7 @@ Minimal Buy  50      Contract id
 
 Table
 200.000 IDR          COIN-IN
+                  1  Contract id
 
 per
 Contract id   1 : 1  MM Session
