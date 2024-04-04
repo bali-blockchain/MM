@@ -69,6 +69,78 @@
 
 
 ```json:
+
+
+
+1)  each Cipher Secret
+
+    is
+    limited
+
+    to
+    Maximum 1000 chunks
+
+    1 chunk subentry count
+    allocate maximum 64 characters
+
+
+
+2)  each Cipher Secret
+
+    sponsor
+    Minimum 1.000 IDR
+
+    auction
+    bid/offer
+
+    to
+    One Storage Provider
+
+    How Many
+    Storage Providers ?
+
+    deploy
+    Contract id
+
+
+
+3)  each Cipher Secret
+
+    sponsor
+    Maximum 10.000 IDR
+
+    auction
+    bid/offer
+
+    to
+    One Storage Provider
+
+    How Many
+    Storage Providers ?
+
+    deploy
+    Contract id
+
+
+
+```
+
+
+
+
+<br />
+
+
+
+![_barong_](./img/_barong_.png)
+
+
+
+<br />
+
+
+
+```json:
 Offer
 Pair Quality Liquidity Swap
 
