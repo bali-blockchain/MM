@@ -19,6 +19,9 @@ NFT Auction Minimal Floor Price
 USD 1,000,000
 
 VIP Collection series 1
+Collector Edition
+issue         1 NFT
+
 BIMA
 
 
@@ -27,7 +30,10 @@ NFT Auction Minimal Floor Price
 USD   100,000
 
 VIP Collection series 2
-BIMA       0
+Collector Edition
+issue        10 NFT
+
+BIMA       0  to  BIMA       9
 
 
 
@@ -35,7 +41,10 @@ NFT Auction Minimal Floor Price
 USD    10,000
 
 VIP Collection series 3
-BIMA      00
+Collector Edition
+issue       100 NFT
+
+BIMA      00  to  BIMA      99
 
 
 
@@ -43,7 +52,10 @@ NFT Auction Minimal Floor Price
 USD     1,000
 
 VIP Collection series 4
-BIMA     000
+Collector Edition
+issue     1,000 NFT
+
+BIMA     000  to  BIMA     999
 
 
 
@@ -51,7 +63,10 @@ NFT Auction Minimal Floor Price
 USD       100
 
 VIP Collection series 5
-BIMA   0 000
+Collector Edition
+issue    10,000 NFT
+
+BIMA   0 000  to  BIMA   9 999
 
 
 
@@ -59,7 +74,10 @@ NFT Auction Minimal Floor Price
 USD        10
 
 VIP Collection series 6
-BIMA  00 000
+Collector Edition
+issue   100,000 NFT
+
+BIMA  00 000  to  BIMA  99 999
 
 
 
@@ -67,7 +85,10 @@ NFT Auction Minimal Floor Price
 USD         1
 
 VIP Collection series 7
-BIMA 000 000
+Collector Edition
+issue 1,000,000 NFT
+
+BIMA 000 000  to  BIMA 999 999
 ```
 
 
