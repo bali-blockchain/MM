@@ -15,6 +15,58 @@
 
 
 ```json:
+
+
+
+Stellar Payment System
+native asset XLM instant Payment
+
+BIMA Relay Chain & Parachain
+
+synced replicated Parachain
+
+
+
+
+BIMA < pin id > NFT Auctions
+
+BIMA IDR Accounts
+
+Balance Funded in IDR asset
+
+
+
+
+events, campaigns, procedures
+
+BIMA Parachain Smart Contracts
+
+interact & interface operations
+
+
+
+
+BIMA Network native asset IDR
+
+BIMA digital assets values holdings
+
+pairing, pegging USDC for Payments
+
+
+
+```
+
+
+
+![_barong_](./img/_barong_.png)
+
+
+
+<br />
+
+
+
+```json:
 NFT Auction Minimal Floor Price
 USD $1,000,000
 
