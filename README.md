@@ -6,7 +6,7 @@
 
 
 
-![_barong_](./img/_barong_.png
+![_barong_](./img/_barong_.png)
 
 
 
