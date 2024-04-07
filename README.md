@@ -20,7 +20,9 @@
 
 IDR Acquisition bidding BIMA < pin id >
 
-balance pairing pegging USDC
+Stellar Network based Account
+balance
+pairing pegging based on USDC
 
 Auction IDR asset among BIMA < pin id >
 
