@@ -18,6 +18,15 @@
 
 
 
+IDR Acquisition bidding BIMA < pin id >
+
+balance pairing pegging USDC
+
+Auction IDR asset among BIMA < pin id >
+
+
+
+
 Stellar Payment System
 native asset XLM instant Payment
 
