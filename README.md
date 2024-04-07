@@ -23,7 +23,7 @@ native asset XLM instant Payment
 
 BIMA Relay Chain & Parachain
 
-synced replicated Parachain
+synced replicated 1,000 Parachain
 
 
 
