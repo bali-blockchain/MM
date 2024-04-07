@@ -6,6 +6,76 @@
 
 
 
+![_barong_](./img/_barong_.png
+
+
+
+<br />
+
+
+
+```json:
+NFT Auction Minimal Floor Price
+USD 1,000,000
+
+VIP Collection series 1
+BIMA
+
+
+
+NFT Auction Minimal Floor Price
+USD   100,000
+
+VIP Collection series 2
+BIMA       0
+
+
+
+NFT Auction Minimal Floor Price
+USD    10,000
+
+VIP Collection series 3
+BIMA      00
+
+
+
+NFT Auction Minimal Floor Price
+USD     1,000
+
+VIP Collection series 4
+BIMA     000
+
+
+
+NFT Auction Minimal Floor Price
+USD       100
+
+VIP Collection series 5
+BIMA   0 000
+
+
+
+NFT Auction Minimal Floor Price
+USD        10
+
+VIP Collection series 6
+BIMA  00 000
+
+
+
+NFT Auction Minimal Floor Price
+USD         1
+
+VIP Collection series 7
+BIMA 000 000
+```
+
+
+
+<br />
+
+
+
 ![_barong_](./img/_barong_.png)
 
 
