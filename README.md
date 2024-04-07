@@ -16,69 +16,69 @@
 
 ```json:
 NFT Auction Minimal Floor Price
-USD 1,000,000
+USD $1,000,000
 
-VIP Collection series 1
-issue         1 NFT
+Relay Chain
+issue 1 NFT
 
 BIMA
 
 
 
 NFT Auction Minimal Floor Price
-USD   100,000
+USD $100,000
 
-VIP Collection series 2
-issue        10 NFT
+BIMA Collector series
+issue 10 NFT
 
-BIMA       0  to  BIMA       9
-
-
-
-NFT Auction Minimal Floor Price
-USD    10,000
-
-VIP Collection series 3
-issue       100 NFT
-
-BIMA      00  to  BIMA      99
+BIMA 0  to  BIMA 9
 
 
 
 NFT Auction Minimal Floor Price
-USD     1,000
+USD $10,000
 
-VIP Collection series 4
-issue     1,000 NFT
+BIMA Collector series
+issue 100 NFT
 
-BIMA     000  to  BIMA     999
-
-
-
-NFT Auction Minimal Floor Price
-USD       100
-
-VIP Collection series 5
-issue    10,000 NFT
-
-BIMA   0 000  to  BIMA   9 999
+BIMA 00  to  BIMA 99
 
 
 
 NFT Auction Minimal Floor Price
-USD        10
+USD $1,000
 
-VIP Collection series 6
-issue   100,000 NFT
+Parachain
+issue 1,000 NFT
 
-BIMA  00 000  to  BIMA  99 999
+BIMA 000  to  BIMA 999
 
 
 
 NFT Auction Minimal Floor Price
-USD         1
+USD $100
 
-VIP Collection series 7
+BIMA Collector series
+issue 10,000 NFT
+
+BIMA 0 000  to  BIMA 9 999
+
+
+
+NFT Auction Minimal Floor Price
+USD $10
+
+BIMA Collector series
+issue 100,000 NFT
+
+BIMA 00 000  to  BIMA 99 999
+
+
+
+NFT Auction Minimal Floor Price
+USD $1
+
+BIMA Collector series
 issue 1,000,000 NFT
 
 BIMA 000 000  to  BIMA 999 999
