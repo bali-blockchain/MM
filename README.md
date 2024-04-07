@@ -25,6 +25,7 @@ BIMA
 
 
 
+
 NFT Auction Minimal Floor Price
 USD $100,000
 
@@ -32,6 +33,7 @@ BIMA Collector series
 issue 10 NFT
 
 BIMA 0  to  BIMA 9
+
 
 
 
@@ -45,6 +47,7 @@ BIMA 00  to  BIMA 99
 
 
 
+
 NFT Auction Minimal Floor Price
 USD $1,000
 
@@ -52,6 +55,7 @@ Parachain
 issue 1,000 NFT
 
 BIMA 000  to  BIMA 999
+
 
 
 
@@ -65,6 +69,7 @@ BIMA 0 000  to  BIMA 9 999
 
 
 
+
 NFT Auction Minimal Floor Price
 USD $10
 
@@ -72,6 +77,7 @@ BIMA Collector series
 issue 100,000 NFT
 
 BIMA 00 000  to  BIMA 99 999
+
 
 
 
